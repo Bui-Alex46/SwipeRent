@@ -1,0 +1,37 @@
+CREATE DATABASE rent_app;
+
+CREATE TABLE users(
+    id SERIAL PRIMARY KEY,
+    username VARCHAR(50) NOT NULL,
+    email VARCHAR(100) NOT NULL UNIQUE,
+    password TEXT NOT NULL
+);
+
+CREATE TABLE apartments(
+    id SERIAL PRIMARY KEY,
+    title VARCHAR(255) NOT NULL,
+    price INTEGER NOT NULL,
+    location VARCHAR(255) NOT NULL,
+    bedrooms INT,
+    bathrooms INT,
+    square_feet INT,
+    amenitites TEXT,
+    image_url TEXT
+);
+
+CREATE TABLE favorites(
+    id SERIAL PRIMARY KEY,
+    user_id INT REFERENCES users(id) ON DELETE CASCADE,
+    apartment_id INT REFERENCES apartments(id) NOT NULL,
+    FOREIGN KEY (user_id) REFERENCES users(id),
+    FOREIGN KEY (apartment_id) REFERENCES apartments(id)
+);
+
+CREATE TABLE swipes(
+    id SERIAL PRIMARY KEY,
+    user_id INT REFERENCES users(id) ON DELETE CASCADE,
+    apartment_id INT REFERENCES apartments(id) NOT NULL,
+    swipe_type VARCHAR(10) CHECK (swipe_type IN ('like', 'dislike')),
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    UNIQUE (user_id, apartment_id) 
+);

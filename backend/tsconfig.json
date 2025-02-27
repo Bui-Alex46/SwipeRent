@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+      "target": "es2017",
+      "module": "commonjs",    // Different from frontend - Node.js uses CommonJS
+      "outDir": "./dist",     // Compiled files will go here
+      "rootDir": ".",
+      "strict": true,
+      "esModuleInterop": true,
+      "skipLibCheck": true,
+      "forceConsistentCasingInFileNames": true,
+      "moduleResolution": "node",  // Use node instead of bundler
+      "resolveJsonModule": true,
+      "isolatedModules": true,
+      "allowJs": true
+    },
+    "include": ["*.ts"],
+    "exclude": ["node_modules"]
+  }

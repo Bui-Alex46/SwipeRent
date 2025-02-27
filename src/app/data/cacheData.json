@@ -1,0 +1,4435 @@
+{
+    "data": {
+        "count": 20,
+        "total": 537,
+        "boundary": {
+            "type": "polygon",
+            "coordinates": [
+                [
+                    [
+                        -118.07425634682055,
+                        33.935891685087995
+                    ],
+                    [
+                        -118.06162984726244,
+                        33.91030360580725
+                    ],
+                    [
+                        -118.0553584864759,
+                        33.89990718596812
+                    ],
+                    [
+                        -118.03646351482807,
+                        33.87376447978748
+                    ],
+                    [
+                        -118.02539980313583,
+                        33.869217668111126
+                    ],
+                    [
+                        -118.00035768755322,
+                        33.86834528456154
+                    ],
+                    [
+                        -117.8615731146379,
+                        33.86600544880704
+                    ],
+                    [
+                        -117.8353466304722,
+                        33.86625965412679
+                    ],
+                    [
+                        -117.72891835925383,
+                        33.90172997099091
+                    ],
+                    [
+                        -117.6784268218376,
+                        33.92161576564647
+                    ],
+                    [
+                        -117.65355513647843,
+                        33.93164532387871
+                    ],
+                    [
+                        -117.62906187617945,
+                        33.96293858225884
+                    ],
+                    [
+                        -117.62926697365336,
+                        33.96579839210623
+                    ],
+                    [
+                        -117.65357536313354,
+                        33.983315449595665
+                    ],
+                    [
+                        -117.67897278842443,
+                        33.98434093696518
+                    ],
+                    [
+                        -118.04783921444243,
+                        33.98729027619296
+                    ],
+                    [
+                        -118.07424479203328,
+                        33.94174418483628
+                    ],
+                    [
+                        -118.07425634682055,
+                        33.935891685087995
+                    ]
+                ]
+            ]
+        },
+        "search_promotion": null,
+        "results": [
+            {
+                "__typename": "SearchHome",
+                "property_id": "2479418942",
+                "listing_id": "2977155382",
+                "status": "for_rent",
+                "primary_photo": {
+                    "href": "https://ar.rdcpix.com/12025beba019fa2a662cd9b3a65ccc05c-f61691453s.jpg"
+                },
+                "photo_count": 17,
+                "photos": [
+                    {
+                        "href": "http://ar.rdcpix.com/12025beba019fa2a662cd9b3a65ccc05c-f61691453s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/12025beba019fa2a662cd9b3a65ccc05c-f2727614433s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/12025beba019fa2a662cd9b3a65ccc05c-f3632883935s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/12025beba019fa2a662cd9b3a65ccc05c-f607165817s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/12025beba019fa2a662cd9b3a65ccc05c-f493751355s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/12025beba019fa2a662cd9b3a65ccc05c-f2454676226s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/12025beba019fa2a662cd9b3a65ccc05c-f3784915806s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/12025beba019fa2a662cd9b3a65ccc05c-f2926655799s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/12025beba019fa2a662cd9b3a65ccc05c-f2552223329s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/12025beba019fa2a662cd9b3a65ccc05c-f330729251s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/12025beba019fa2a662cd9b3a65ccc05c-f708984247s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/12025beba019fa2a662cd9b3a65ccc05c-f3170976700s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/12025beba019fa2a662cd9b3a65ccc05c-f1556352633s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/12025beba019fa2a662cd9b3a65ccc05c-f3862073622s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/12025beba019fa2a662cd9b3a65ccc05c-f1086490528s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/12025beba019fa2a662cd9b3a65ccc05c-f620975107s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/12025beba019fa2a662cd9b3a65ccc05c-f3541385500s.jpg"
+                    }
+                ],
+                "location": {
+                    "county": {
+                        "name": "Orange"
+                    },
+                    "neighborhoods": null,
+                    "address": {
+                        "line": "8051 4th St",
+                        "unit": null,
+                        "street_number": "8051",
+                        "street_name": "4th",
+                        "street_suffix": "St",
+                        "city": "Buena Park",
+                        "postal_code": "90621",
+                        "state_code": "CA",
+                        "state": "California",
+                        "country": "USA",
+                        "coordinate": {
+                            "lat": 33.872224,
+                            "lon": -117.992706
+                        }
+                    },
+                    "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=8051%204th%20St%2C%20Buena%20Park%2C%20CA%2090621&size=640x480&source=outdoor&signature=sPbmdqnJZfM-5rULybpiyeLnLh8="
+                },
+                "list_price": null,
+                "list_date": "2025-01-03T15:16:41.000000Z",
+                "list_price_min": 1750,
+                "list_price_max": 1750,
+                "price_reduced_date": null,
+                "price_reduced_amount": null,
+                "last_sold_date": "2021-08-25",
+                "last_sold_price": 12000000,
+                "href": "https://www.realtor.com/rentals/details/8051-4th-St_Buena-Park_CA_90621_M24794-18942",
+                "products": {
+                    "products": [
+                        "co_broke",
+                        "rentals_cost_per_lead_hybrid"
+                    ]
+                },
+                "description": {
+                    "baths": null,
+                    "baths_min": 1,
+                    "baths_max": 1,
+                    "baths_full_calc": null,
+                    "baths_partial_calc": null,
+                    "beds_min": 1,
+                    "beds_max": 1,
+                    "beds": null,
+                    "sqft": null,
+                    "lot_sqft": null,
+                    "type": "apartment",
+                    "sqft_min": 450,
+                    "sqft_max": 450
+                },
+                "open_houses": null,
+                "branding": [
+                    {
+                        "type": "Office",
+                        "name": null
+                    }
+                ],
+                "flags": {
+                    "is_contingent": null,
+                    "is_new_construction": null,
+                    "is_pending": null,
+                    "is_foreclosure": null,
+                    "is_deal_available": null,
+                    "is_plan": null,
+                    "is_price_reduced": null,
+                    "is_new_listing": false,
+                    "is_coming_soon": null
+                },
+                "lead_attributes": {
+                    "opcity_lead_attributes": {
+                        "flip_the_market_enabled": false
+                    },
+                    "show_contact_an_agent": true,
+                    "is_tcpa_message_enabled": null,
+                    "is_premium_ldp": false
+                },
+                "virtual_tours": null,
+                "matterport": false,
+                "advertisers": [
+                    {
+                        "fulfillment_id": "100463603",
+                        "name": "Zillow",
+                        "type": "management",
+                        "office": {
+                            "name": "Beach Front Property Management"
+                        },
+                        "builder": null
+                    },
+                    {
+                        "fulfillment_id": "100463603",
+                        "name": "Zillow",
+                        "type": "community",
+                        "office": {
+                            "name": "Buena Casa Apartments"
+                        },
+                        "builder": null
+                    }
+                ],
+                "source": {
+                    "type": "community",
+                    "plan_id": null,
+                    "listing_id": "32ue8fkgnpnbz",
+                    "community_id": 4683589,
+                    "id": "ZILL",
+                    "name": "Zillow",
+                    "disclaimer": null,
+                    "feed_type": "Syndicator Community",
+                    "agents": null
+                },
+                "pet_policy": {
+                    "cats": true,
+                    "dogs": true,
+                    "dogs_small": false,
+                    "dogs_large": false
+                },
+                "property_history": null,
+                "search_promotions": null,
+                "has_specials": false,
+                "estimate": null,
+                "current_estimates": [
+                    {
+                        "estimate": 14303365,
+                        "isbest_homevalue": true
+                    }
+                ],
+                "details": [
+                    {
+                        "text": [
+                            "Laundry",
+                            "Pool",
+                            "Off Street",
+                            "Wood-Effect Flooring",
+                            "On-Site Management",
+                            "Dogs Allowed",
+                            "Cats Allowed"
+                        ],
+                        "category": "Community Features"
+                    }
+                ]
+            },
+            {
+                "__typename": "SearchHome",
+                "property_id": "1685132645",
+                "listing_id": "2966778820",
+                "status": "for_rent",
+                "primary_photo": {
+                    "href": "https://ar.rdcpix.com/2a2fd64bc30b136ceea729275e529c93c-f792613628s.jpg"
+                },
+                "photo_count": 12,
+                "photos": [
+                    {
+                        "href": "http://ar.rdcpix.com/2a2fd64bc30b136ceea729275e529c93c-f792613628s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/2a2fd64bc30b136ceea729275e529c93c-f634378741s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/2a2fd64bc30b136ceea729275e529c93c-f3988917441s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/2a2fd64bc30b136ceea729275e529c93c-f2691162125s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/2a2fd64bc30b136ceea729275e529c93c-f2722430924s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/2a2fd64bc30b136ceea729275e529c93c-f1929246837s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/2a2fd64bc30b136ceea729275e529c93c-f1415829012s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/2a2fd64bc30b136ceea729275e529c93c-f51692262s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/2a2fd64bc30b136ceea729275e529c93c-f3619055859s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/2a2fd64bc30b136ceea729275e529c93c-f3965533384s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/2a2fd64bc30b136ceea729275e529c93c-f646727225s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/2a2fd64bc30b136ceea729275e529c93c-f2469821349s.jpg"
+                    }
+                ],
+                "location": {
+                    "county": {
+                        "name": "Los Angeles"
+                    },
+                    "neighborhoods": [
+                        {
+                            "name": "Southeast LA",
+                            "city": "Los Angeles",
+                            "state_code": "CA",
+                            "level": "macro_neighborhood"
+                        }
+                    ],
+                    "address": {
+                        "line": "15040 Leffingwell Rd",
+                        "unit": null,
+                        "street_number": "15040",
+                        "street_name": "Leffingwell",
+                        "street_suffix": "Rd",
+                        "city": "La Mirada",
+                        "postal_code": "90638",
+                        "state_code": "CA",
+                        "state": "California",
+                        "country": "USA",
+                        "coordinate": {
+                            "lat": 33.926102,
+                            "lon": -118.010818
+                        }
+                    },
+                    "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=15040%20Leffingwell%20Rd%2C%20La%20Mirada%2C%20CA%2090638&size=640x480&source=outdoor&signature=LN0XW0D6-zzuGBw18rjLkdAE1Fs="
+                },
+                "list_price": null,
+                "list_date": "2024-04-12T18:14:55.000000Z",
+                "list_price_min": 1950,
+                "list_price_max": 1950,
+                "price_reduced_date": null,
+                "price_reduced_amount": null,
+                "last_sold_date": "2006-05-05",
+                "last_sold_price": 7925000,
+                "href": "https://www.realtor.com/rentals/details/15040-Leffingwell-Rd_La-Mirada_CA_90638_M16851-32645",
+                "products": {
+                    "products": [
+                        "co_broke",
+                        "rentals_cost_per_lead_hybrid"
+                    ]
+                },
+                "description": {
+                    "baths": null,
+                    "baths_min": 1,
+                    "baths_max": 1,
+                    "baths_full_calc": null,
+                    "baths_partial_calc": null,
+                    "beds_min": 1,
+                    "beds_max": 1,
+                    "beds": null,
+                    "sqft": null,
+                    "lot_sqft": null,
+                    "type": "apartment",
+                    "sqft_min": 680,
+                    "sqft_max": 680
+                },
+                "open_houses": null,
+                "branding": [
+                    {
+                        "type": "Office",
+                        "name": null
+                    }
+                ],
+                "flags": {
+                    "is_contingent": null,
+                    "is_new_construction": null,
+                    "is_pending": null,
+                    "is_foreclosure": null,
+                    "is_deal_available": null,
+                    "is_plan": null,
+                    "is_price_reduced": null,
+                    "is_new_listing": false,
+                    "is_coming_soon": null
+                },
+                "lead_attributes": {
+                    "opcity_lead_attributes": {
+                        "flip_the_market_enabled": false
+                    },
+                    "show_contact_an_agent": true,
+                    "is_tcpa_message_enabled": null,
+                    "is_premium_ldp": false
+                },
+                "virtual_tours": null,
+                "matterport": false,
+                "advertisers": [
+                    {
+                        "fulfillment_id": "100463603",
+                        "name": "Zillow",
+                        "type": "management",
+                        "office": {
+                            "name": "L'Abri Management"
+                        },
+                        "builder": null
+                    },
+                    {
+                        "fulfillment_id": "100463603",
+                        "name": "Zillow",
+                        "type": "community",
+                        "office": {
+                            "name": "Pinecrest Apartments"
+                        },
+                        "builder": null
+                    }
+                ],
+                "source": {
+                    "type": "community",
+                    "plan_id": null,
+                    "listing_id": "36t44pk26fssb",
+                    "community_id": 4208269,
+                    "id": "ZILL",
+                    "name": "Zillow",
+                    "disclaimer": null,
+                    "feed_type": "Syndicator Community",
+                    "agents": null
+                },
+                "pet_policy": {
+                    "cats": false,
+                    "dogs": false,
+                    "dogs_small": false,
+                    "dogs_large": false
+                },
+                "property_history": null,
+                "search_promotions": null,
+                "has_specials": false,
+                "estimate": null,
+                "current_estimates": [
+                    {
+                        "estimate": 12442637,
+                        "isbest_homevalue": true
+                    },
+                    {
+                        "estimate": 1066000,
+                        "isbest_homevalue": false
+                    }
+                ],
+                "details": [
+                    {
+                        "text": [
+                            "Laundry",
+                            "Pool",
+                            "Gate",
+                            "Lawn",
+                            "Off Street",
+                            "Heating: Gas",
+                            "Online Rent Payment",
+                            "On-Site Management",
+                            "Located in nearby Whittier Whittwood Center includes a Target JCPenney World Market Pet Smart and more and is a 5-minute drive.",
+                            "Online Maintenance Portal"
+                        ],
+                        "category": "Community Features"
+                    }
+                ]
+            },
+            {
+                "__typename": "SearchHome",
+                "property_id": "9071257752",
+                "listing_id": "2977154161",
+                "status": "for_rent",
+                "primary_photo": {
+                    "href": "https://ar.rdcpix.com/b441bd8a385feed851435eed3c646978c-f1002045424s.jpg"
+                },
+                "photo_count": 6,
+                "photos": [
+                    {
+                        "href": "http://ar.rdcpix.com/b441bd8a385feed851435eed3c646978c-f1002045424s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/b441bd8a385feed851435eed3c646978c-f405171731s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/b441bd8a385feed851435eed3c646978c-f2327775601s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/b441bd8a385feed851435eed3c646978c-f2529948446s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/b441bd8a385feed851435eed3c646978c-f2495354691s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/b441bd8a385feed851435eed3c646978c-f3019369880s.jpg"
+                    }
+                ],
+                "location": {
+                    "county": {
+                        "name": "Los Angeles"
+                    },
+                    "neighborhoods": null,
+                    "address": {
+                        "line": "10101 Santa Gertrudes Ave",
+                        "unit": null,
+                        "street_number": "10101",
+                        "street_name": "Santa Gertrudes",
+                        "street_suffix": "Ave",
+                        "city": "Whittier",
+                        "postal_code": "90603",
+                        "state_code": "CA",
+                        "state": "California",
+                        "country": "USA",
+                        "coordinate": {
+                            "lat": 33.945992,
+                            "lon": -117.994446
+                        }
+                    },
+                    "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=10101%20Santa%20Gertrudes%20Ave%2C%20Whittier%2C%20CA%2090603&size=640x480&source=outdoor&signature=8AGao2V6NtlQG3b9rYgva8bY2lY="
+                },
+                "list_price": null,
+                "list_date": "2025-01-03T15:16:41.000000Z",
+                "list_price_min": 2150,
+                "list_price_max": 2525,
+                "price_reduced_date": null,
+                "price_reduced_amount": null,
+                "last_sold_date": null,
+                "last_sold_price": null,
+                "href": "https://www.realtor.com/rentals/details/10101-Santa-Gertrudes-Ave_Whittier_CA_90603_M90712-57752",
+                "products": {
+                    "products": [
+                        "co_broke",
+                        "rentals_cost_per_lead_hybrid"
+                    ]
+                },
+                "description": {
+                    "baths": null,
+                    "baths_min": 1,
+                    "baths_max": 1,
+                    "baths_full_calc": null,
+                    "baths_partial_calc": null,
+                    "beds_min": 1,
+                    "beds_max": 2,
+                    "beds": null,
+                    "sqft": null,
+                    "lot_sqft": null,
+                    "type": "apartment",
+                    "sqft_min": null,
+                    "sqft_max": null
+                },
+                "open_houses": null,
+                "branding": [
+                    {
+                        "type": "Office",
+                        "name": null
+                    }
+                ],
+                "flags": {
+                    "is_contingent": null,
+                    "is_new_construction": null,
+                    "is_pending": null,
+                    "is_foreclosure": null,
+                    "is_deal_available": null,
+                    "is_plan": null,
+                    "is_price_reduced": null,
+                    "is_new_listing": false,
+                    "is_coming_soon": null
+                },
+                "lead_attributes": {
+                    "opcity_lead_attributes": {
+                        "flip_the_market_enabled": false
+                    },
+                    "show_contact_an_agent": true,
+                    "is_tcpa_message_enabled": null,
+                    "is_premium_ldp": false
+                },
+                "virtual_tours": null,
+                "matterport": false,
+                "advertisers": [
+                    {
+                        "fulfillment_id": "100463603",
+                        "name": "Zillow",
+                        "type": "management",
+                        "office": {
+                            "name": "L'Abri Management"
+                        },
+                        "builder": null
+                    },
+                    {
+                        "fulfillment_id": "100463603",
+                        "name": "Zillow",
+                        "type": "community",
+                        "office": {
+                            "name": "Friendly Hills"
+                        },
+                        "builder": null
+                    }
+                ],
+                "source": {
+                    "type": "community",
+                    "plan_id": null,
+                    "listing_id": "1btp97eabye",
+                    "community_id": 4679201,
+                    "id": "ZILL",
+                    "name": "Zillow",
+                    "disclaimer": null,
+                    "feed_type": "Syndicator Community",
+                    "agents": null
+                },
+                "pet_policy": {
+                    "cats": false,
+                    "dogs": false,
+                    "dogs_small": false,
+                    "dogs_large": false
+                },
+                "property_history": null,
+                "search_promotions": null,
+                "has_specials": false,
+                "estimate": null,
+                "current_estimates": [],
+                "details": [
+                    {
+                        "text": [
+                            "Laundry",
+                            "Pool",
+                            "Heating: Gas",
+                            "Heating: Electric",
+                            "Online Rent Payment",
+                            "On-Site Management",
+                            "Flooring: Laminate"
+                        ],
+                        "category": "Community Features"
+                    }
+                ]
+            },
+            {
+                "__typename": "SearchHome",
+                "property_id": "1664748174",
+                "listing_id": "2977154103",
+                "status": "for_rent",
+                "primary_photo": {
+                    "href": "https://ar.rdcpix.com/5e20fe445851d965f67c626735555027c-f1159734218s.jpg"
+                },
+                "photo_count": 13,
+                "photos": [
+                    {
+                        "href": "http://ar.rdcpix.com/5e20fe445851d965f67c626735555027c-f1159734218s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/5e20fe445851d965f67c626735555027c-f3521382004s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/5e20fe445851d965f67c626735555027c-f3270108391s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/5e20fe445851d965f67c626735555027c-f3654389517s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/5e20fe445851d965f67c626735555027c-f1122216802s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/5e20fe445851d965f67c626735555027c-f1291684318s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/5e20fe445851d965f67c626735555027c-f3032034326s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/5e20fe445851d965f67c626735555027c-f4047896971s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/5e20fe445851d965f67c626735555027c-f3302580365s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/5e20fe445851d965f67c626735555027c-f4092216965s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/5e20fe445851d965f67c626735555027c-f658265473s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/5e20fe445851d965f67c626735555027c-f3524101241s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/5e20fe445851d965f67c626735555027c-f3000072981s.jpg"
+                    }
+                ],
+                "location": {
+                    "county": {
+                        "name": "Los Angeles"
+                    },
+                    "neighborhoods": [
+                        {
+                            "name": "Southeast LA",
+                            "city": "Los Angeles",
+                            "state_code": "CA",
+                            "level": "macro_neighborhood"
+                        }
+                    ],
+                    "address": {
+                        "line": "14035 Coteau Dr",
+                        "unit": null,
+                        "street_number": "14035",
+                        "street_name": "Coteau",
+                        "street_suffix": "Dr",
+                        "city": "Whittier",
+                        "postal_code": "90604",
+                        "state_code": "CA",
+                        "state": "California",
+                        "country": "USA",
+                        "coordinate": {
+                            "lat": 33.923569,
+                            "lon": -118.03233
+                        }
+                    },
+                    "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=14035%20Coteau%20Dr%2C%20Whittier%2C%20CA%2090604&size=640x480&source=outdoor&signature=HE4etu-Sj12sH-hvKmp0Fsx0MwY="
+                },
+                "list_price": null,
+                "list_date": "2025-01-03T15:16:41.000000Z",
+                "list_price_min": 2300,
+                "list_price_max": 2350,
+                "price_reduced_date": null,
+                "price_reduced_amount": null,
+                "last_sold_date": "2019-05-17",
+                "last_sold_price": 11200000,
+                "href": "https://www.realtor.com/rentals/details/14035-Coteau-Dr_Whittier_CA_90604_M16647-48174",
+                "products": {
+                    "products": [
+                        "co_broke",
+                        "rentals_cost_per_lead_hybrid"
+                    ]
+                },
+                "description": {
+                    "baths": null,
+                    "baths_min": 1,
+                    "baths_max": 1,
+                    "baths_full_calc": null,
+                    "baths_partial_calc": null,
+                    "beds_min": 2,
+                    "beds_max": 2,
+                    "beds": null,
+                    "sqft": null,
+                    "lot_sqft": null,
+                    "type": "apartment",
+                    "sqft_min": null,
+                    "sqft_max": null
+                },
+                "open_houses": null,
+                "branding": [
+                    {
+                        "type": "Office",
+                        "name": null
+                    }
+                ],
+                "flags": {
+                    "is_contingent": null,
+                    "is_new_construction": null,
+                    "is_pending": null,
+                    "is_foreclosure": null,
+                    "is_deal_available": null,
+                    "is_plan": null,
+                    "is_price_reduced": null,
+                    "is_new_listing": false,
+                    "is_coming_soon": null
+                },
+                "lead_attributes": {
+                    "opcity_lead_attributes": {
+                        "flip_the_market_enabled": false
+                    },
+                    "show_contact_an_agent": true,
+                    "is_tcpa_message_enabled": null,
+                    "is_premium_ldp": false
+                },
+                "virtual_tours": null,
+                "matterport": false,
+                "advertisers": [
+                    {
+                        "fulfillment_id": "100463603",
+                        "name": "Zillow",
+                        "type": "management",
+                        "office": {
+                            "name": "Allen Properties"
+                        },
+                        "builder": null
+                    },
+                    {
+                        "fulfillment_id": "100463603",
+                        "name": "Zillow",
+                        "type": "community",
+                        "office": {
+                            "name": "Coteau Ridge"
+                        },
+                        "builder": null
+                    }
+                ],
+                "source": {
+                    "type": "community",
+                    "plan_id": null,
+                    "listing_id": "3349fgv6n86dn",
+                    "community_id": 4679512,
+                    "id": "ZILL",
+                    "name": "Zillow",
+                    "disclaimer": null,
+                    "feed_type": "Syndicator Community",
+                    "agents": null
+                },
+                "pet_policy": {
+                    "cats": false,
+                    "dogs": false,
+                    "dogs_small": false,
+                    "dogs_large": false
+                },
+                "property_history": null,
+                "search_promotions": null,
+                "has_specials": false,
+                "estimate": null,
+                "current_estimates": [
+                    {
+                        "estimate": 1118000,
+                        "isbest_homevalue": false
+                    }
+                ],
+                "details": [
+                    {
+                        "text": [
+                            "Laundry",
+                            "Night Patrol",
+                            "Barbecue Area",
+                            "Garage Detached",
+                            "Gate",
+                            "Heating: Gas",
+                            "Online Rent Payment",
+                            "Spanish Speaking Staff",
+                            "On-Site Management",
+                            "View Type: Golf Course"
+                        ],
+                        "category": "Community Features"
+                    }
+                ]
+            },
+            {
+                "__typename": "SearchHome",
+                "property_id": "1025178696",
+                "listing_id": "2977154521",
+                "status": "for_rent",
+                "primary_photo": {
+                    "href": "https://ar.rdcpix.com/fa86c2b8ce0b9d211a3951962bbc2922c-f684494080s.jpg"
+                },
+                "photo_count": 7,
+                "photos": [
+                    {
+                        "href": "http://ar.rdcpix.com/fa86c2b8ce0b9d211a3951962bbc2922c-f684494080s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/fa86c2b8ce0b9d211a3951962bbc2922c-f1872179502s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/fa86c2b8ce0b9d211a3951962bbc2922c-f17574683s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/fa86c2b8ce0b9d211a3951962bbc2922c-f668266700s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/fa86c2b8ce0b9d211a3951962bbc2922c-f3663477625s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/fa86c2b8ce0b9d211a3951962bbc2922c-f1475677931s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/fa86c2b8ce0b9d211a3951962bbc2922c-f3003900830s.jpg"
+                    }
+                ],
+                "location": {
+                    "county": {
+                        "name": "Orange"
+                    },
+                    "neighborhoods": null,
+                    "address": {
+                        "line": "1050 N Bradford Ave",
+                        "unit": null,
+                        "street_number": "1050",
+                        "street_name": "Bradford",
+                        "street_suffix": "Ave",
+                        "city": "Placentia",
+                        "postal_code": "92870",
+                        "state_code": "CA",
+                        "state": "California",
+                        "country": "USA",
+                        "coordinate": {
+                            "lat": 33.882289,
+                            "lon": -117.866819
+                        }
+                    },
+                    "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=1050%20N%20Bradford%20Ave%2C%20Placentia%2C%20CA%2092870&size=640x480&source=outdoor&signature=wu0Gh6u0wtDenneEQp6Y371Ca3M="
+                },
+                "list_price": null,
+                "list_date": "2025-01-16T16:25:15.000000Z",
+                "list_price_min": 2095,
+                "list_price_max": 2095,
+                "price_reduced_date": null,
+                "price_reduced_amount": null,
+                "last_sold_date": "2011-05-06",
+                "last_sold_price": 3650000,
+                "href": "https://www.realtor.com/rentals/details/1050-N-Bradford-Ave_Placentia_CA_92870_M10251-78696",
+                "products": {
+                    "products": [
+                        "co_broke",
+                        "rentals_cost_per_lead_hybrid"
+                    ]
+                },
+                "description": {
+                    "baths": null,
+                    "baths_min": 1,
+                    "baths_max": 1,
+                    "baths_full_calc": null,
+                    "baths_partial_calc": null,
+                    "beds_min": 1,
+                    "beds_max": 1,
+                    "beds": null,
+                    "sqft": null,
+                    "lot_sqft": null,
+                    "type": "apartment",
+                    "sqft_min": null,
+                    "sqft_max": null
+                },
+                "open_houses": null,
+                "branding": [
+                    {
+                        "type": "Office",
+                        "name": null
+                    }
+                ],
+                "flags": {
+                    "is_contingent": null,
+                    "is_new_construction": null,
+                    "is_pending": null,
+                    "is_foreclosure": null,
+                    "is_deal_available": null,
+                    "is_plan": null,
+                    "is_price_reduced": null,
+                    "is_new_listing": false,
+                    "is_coming_soon": null
+                },
+                "lead_attributes": {
+                    "opcity_lead_attributes": {
+                        "flip_the_market_enabled": false
+                    },
+                    "show_contact_an_agent": true,
+                    "is_tcpa_message_enabled": null,
+                    "is_premium_ldp": false
+                },
+                "virtual_tours": null,
+                "matterport": false,
+                "advertisers": [
+                    {
+                        "fulfillment_id": "100463603",
+                        "name": "Zillow",
+                        "type": "management",
+                        "office": {
+                            "name": "L'Abri Management"
+                        },
+                        "builder": null
+                    },
+                    {
+                        "fulfillment_id": "100463603",
+                        "name": "Zillow",
+                        "type": "community",
+                        "office": {
+                            "name": "Bradford Villas"
+                        },
+                        "builder": null
+                    }
+                ],
+                "source": {
+                    "type": "community",
+                    "plan_id": null,
+                    "listing_id": "w69ku3fbyd3z",
+                    "community_id": 4699245,
+                    "id": "ZILL",
+                    "name": "Zillow",
+                    "disclaimer": null,
+                    "feed_type": "Syndicator Community",
+                    "agents": null
+                },
+                "pet_policy": {
+                    "cats": false,
+                    "dogs": false,
+                    "dogs_small": false,
+                    "dogs_large": false
+                },
+                "property_history": null,
+                "search_promotions": null,
+                "has_specials": true,
+                "estimate": null,
+                "current_estimates": [
+                    {
+                        "estimate": 9863640,
+                        "isbest_homevalue": true
+                    },
+                    {
+                        "estimate": 1192000,
+                        "isbest_homevalue": false
+                    }
+                ],
+                "details": [
+                    {
+                        "text": [
+                            "Laundry",
+                            "Garage Detached",
+                            "Gate"
+                        ],
+                        "category": "Community Features"
+                    }
+                ]
+            },
+            {
+                "__typename": "SearchHome",
+                "property_id": "2845221434",
+                "listing_id": "2977757912",
+                "status": "for_rent",
+                "primary_photo": {
+                    "href": "https://ar.rdcpix.com/6fa67b1d64b26a23c265a6e5c7b20195c-f2602855887s.jpg"
+                },
+                "photo_count": 10,
+                "photos": [
+                    {
+                        "href": "http://ar.rdcpix.com/6fa67b1d64b26a23c265a6e5c7b20195c-f2602855887s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/6fa67b1d64b26a23c265a6e5c7b20195c-f1707632765s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/6fa67b1d64b26a23c265a6e5c7b20195c-f1167930364s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/6fa67b1d64b26a23c265a6e5c7b20195c-f3110527631s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/6fa67b1d64b26a23c265a6e5c7b20195c-f1827295596s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/6fa67b1d64b26a23c265a6e5c7b20195c-f3592767534s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/6fa67b1d64b26a23c265a6e5c7b20195c-f1251159884s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/6fa67b1d64b26a23c265a6e5c7b20195c-f2761699573s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/6fa67b1d64b26a23c265a6e5c7b20195c-f292953493s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/6fa67b1d64b26a23c265a6e5c7b20195c-f3154778998s.jpg"
+                    }
+                ],
+                "location": {
+                    "county": {
+                        "name": "Orange"
+                    },
+                    "neighborhoods": null,
+                    "address": {
+                        "line": "222 W Fir St",
+                        "unit": null,
+                        "street_number": "222",
+                        "street_name": "Fir",
+                        "street_suffix": "St",
+                        "city": "Brea",
+                        "postal_code": "92821",
+                        "state_code": "CA",
+                        "state": "California",
+                        "country": "USA",
+                        "coordinate": {
+                            "lat": 33.909364,
+                            "lon": -117.906533
+                        }
+                    },
+                    "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=222%20W%20Fir%20St%2C%20Brea%2C%20CA%2092821&size=640x480&source=outdoor&signature=d7UX2FtBxR09OC0Q3UDD80SFUUs="
+                },
+                "list_price": null,
+                "list_date": "2025-01-30T08:24:54.000000Z",
+                "list_price_min": 2595,
+                "list_price_max": 2595,
+                "price_reduced_date": null,
+                "price_reduced_amount": null,
+                "last_sold_date": "1998-06-17",
+                "last_sold_price": 150000,
+                "href": "https://www.realtor.com/rentals/details/222-W-Fir-St_Brea_CA_92821_M28452-21434",
+                "products": {
+                    "products": [
+                        "co_broke",
+                        "rentals_cost_per_lead_hybrid"
+                    ]
+                },
+                "description": {
+                    "baths": null,
+                    "baths_min": 1,
+                    "baths_max": 1,
+                    "baths_full_calc": null,
+                    "baths_partial_calc": null,
+                    "beds_min": 2,
+                    "beds_max": 2,
+                    "beds": null,
+                    "sqft": null,
+                    "lot_sqft": null,
+                    "type": "apartment",
+                    "sqft_min": 1120,
+                    "sqft_max": 1120
+                },
+                "open_houses": null,
+                "branding": [
+                    {
+                        "type": "Office",
+                        "name": null
+                    }
+                ],
+                "flags": {
+                    "is_contingent": null,
+                    "is_new_construction": null,
+                    "is_pending": null,
+                    "is_foreclosure": null,
+                    "is_deal_available": null,
+                    "is_plan": null,
+                    "is_price_reduced": null,
+                    "is_new_listing": false,
+                    "is_coming_soon": null
+                },
+                "lead_attributes": {
+                    "opcity_lead_attributes": {
+                        "flip_the_market_enabled": false
+                    },
+                    "show_contact_an_agent": true,
+                    "is_tcpa_message_enabled": null,
+                    "is_premium_ldp": false
+                },
+                "virtual_tours": null,
+                "matterport": false,
+                "advertisers": [
+                    {
+                        "fulfillment_id": "100463603",
+                        "name": "Zillow",
+                        "type": "management",
+                        "office": {
+                            "name": "Sterling Property Management"
+                        },
+                        "builder": null
+                    },
+                    {
+                        "fulfillment_id": "100463603",
+                        "name": "Zillow",
+                        "type": "community",
+                        "office": {
+                            "name": "Monterey Pines Apartments"
+                        },
+                        "builder": null
+                    }
+                ],
+                "source": {
+                    "type": "community",
+                    "plan_id": null,
+                    "listing_id": "4yf5dh3m49kn2",
+                    "community_id": 4712096,
+                    "id": "ZILL",
+                    "name": "Zillow",
+                    "disclaimer": null,
+                    "feed_type": "Syndicator Community",
+                    "agents": null
+                },
+                "pet_policy": {
+                    "cats": true,
+                    "dogs": true,
+                    "dogs_small": false,
+                    "dogs_large": false
+                },
+                "property_history": null,
+                "search_promotions": null,
+                "has_specials": false,
+                "estimate": null,
+                "current_estimates": [
+                    {
+                        "estimate": 19009036,
+                        "isbest_homevalue": true
+                    }
+                ],
+                "details": [
+                    {
+                        "text": [
+                            "Laundry",
+                            "Pool",
+                            "Hottub Spa",
+                            "Heating: Gas",
+                            "Online Rent Payment",
+                            "On-Site Management",
+                            "Dogs Allowed",
+                            "Cats Allowed"
+                        ],
+                        "category": "Community Features"
+                    }
+                ]
+            },
+            {
+                "__typename": "SearchHome",
+                "property_id": "2828749888",
+                "listing_id": "2977172513",
+                "status": "for_rent",
+                "primary_photo": {
+                    "href": "https://ar.rdcpix.com/012a3211af1bfd059447f40b795b0122c-f825587176s.jpg"
+                },
+                "photo_count": 21,
+                "photos": [
+                    {
+                        "href": "http://ar.rdcpix.com/012a3211af1bfd059447f40b795b0122c-f825587176s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/012a3211af1bfd059447f40b795b0122c-f3280964353s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/012a3211af1bfd059447f40b795b0122c-f3762074216s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/012a3211af1bfd059447f40b795b0122c-f1722614792s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/012a3211af1bfd059447f40b795b0122c-f859878292s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/012a3211af1bfd059447f40b795b0122c-f249455349s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/012a3211af1bfd059447f40b795b0122c-f2304363231s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/012a3211af1bfd059447f40b795b0122c-f281066757s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/012a3211af1bfd059447f40b795b0122c-f775208349s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/012a3211af1bfd059447f40b795b0122c-f4065676780s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/012a3211af1bfd059447f40b795b0122c-f1312585340s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/012a3211af1bfd059447f40b795b0122c-f2216887423s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/012a3211af1bfd059447f40b795b0122c-f2781020292s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/012a3211af1bfd059447f40b795b0122c-f219693310s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/012a3211af1bfd059447f40b795b0122c-f2619611082s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/012a3211af1bfd059447f40b795b0122c-f3281448654s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/012a3211af1bfd059447f40b795b0122c-f1104419677s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/012a3211af1bfd059447f40b795b0122c-f2541876397s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/012a3211af1bfd059447f40b795b0122c-f1384272551s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/012a3211af1bfd059447f40b795b0122c-f3159965939s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/012a3211af1bfd059447f40b795b0122c-f3582146700s.jpg"
+                    }
+                ],
+                "location": {
+                    "county": {
+                        "name": "Orange"
+                    },
+                    "neighborhoods": null,
+                    "address": {
+                        "line": "201 E Chapman Ave",
+                        "unit": null,
+                        "street_number": "201",
+                        "street_name": "Chapman",
+                        "street_suffix": "Ave",
+                        "city": "Placentia",
+                        "postal_code": "92870",
+                        "state_code": "CA",
+                        "state": "California",
+                        "country": "USA",
+                        "coordinate": {
+                            "lat": 33.872606,
+                            "lon": -117.867196
+                        }
+                    },
+                    "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=201%20E%20Chapman%20Ave%2C%20Placentia%2C%20CA%2092870&size=640x480&source=outdoor&signature=QOS8A2Uf7lCjo8HRTHkWtxShHEE="
+                },
+                "list_price": null,
+                "list_date": "2025-01-03T15:16:41.000000Z",
+                "list_price_min": 2039,
+                "list_price_max": 2204,
+                "price_reduced_date": null,
+                "price_reduced_amount": null,
+                "last_sold_date": null,
+                "last_sold_price": null,
+                "href": "https://www.realtor.com/rentals/details/201-E-Chapman-Ave_Placentia_CA_92870_M28287-49888",
+                "products": {
+                    "products": [
+                        "co_broke",
+                        "rentals_cost_per_lead_hybrid"
+                    ]
+                },
+                "description": {
+                    "baths": null,
+                    "baths_min": 1,
+                    "baths_max": 2,
+                    "baths_full_calc": null,
+                    "baths_partial_calc": null,
+                    "beds_min": 1,
+                    "beds_max": 2,
+                    "beds": null,
+                    "sqft": null,
+                    "lot_sqft": null,
+                    "type": "apartment",
+                    "sqft_min": 756,
+                    "sqft_max": 1120
+                },
+                "open_houses": null,
+                "branding": [
+                    {
+                        "type": "Office",
+                        "name": null
+                    }
+                ],
+                "flags": {
+                    "is_contingent": null,
+                    "is_new_construction": null,
+                    "is_pending": null,
+                    "is_foreclosure": null,
+                    "is_deal_available": null,
+                    "is_plan": null,
+                    "is_price_reduced": null,
+                    "is_new_listing": false,
+                    "is_coming_soon": null
+                },
+                "lead_attributes": {
+                    "opcity_lead_attributes": {
+                        "flip_the_market_enabled": false
+                    },
+                    "show_contact_an_agent": true,
+                    "is_tcpa_message_enabled": null,
+                    "is_premium_ldp": false
+                },
+                "virtual_tours": null,
+                "matterport": true,
+                "advertisers": [
+                    {
+                        "fulfillment_id": "100463603",
+                        "name": "Zillow",
+                        "type": "management",
+                        "office": {
+                            "name": "Villa Angelina"
+                        },
+                        "builder": null
+                    },
+                    {
+                        "fulfillment_id": "100463603",
+                        "name": "Zillow",
+                        "type": "community",
+                        "office": {
+                            "name": "Villa Angelina"
+                        },
+                        "builder": null
+                    }
+                ],
+                "source": {
+                    "type": "community",
+                    "plan_id": null,
+                    "listing_id": "g45gcn9a3s83",
+                    "community_id": 4669794,
+                    "id": "ZILL",
+                    "name": "Zillow",
+                    "disclaimer": null,
+                    "feed_type": "Syndicator Community",
+                    "agents": null
+                },
+                "pet_policy": {
+                    "cats": true,
+                    "dogs": true,
+                    "dogs_small": false,
+                    "dogs_large": false
+                },
+                "property_history": null,
+                "search_promotions": null,
+                "has_specials": false,
+                "estimate": null,
+                "current_estimates": [],
+                "details": [
+                    {
+                        "text": [
+                            "Business Center",
+                            "Elevator",
+                            "Fitness Center",
+                            "Laundry",
+                            "Night Patrol",
+                            "Pool",
+                            "Smoke Free",
+                            "Wireless Internet",
+                            "Barbecue Area",
+                            "Gardens and walking paths",
+                            "Smart home technology",
+                            "Keyless entry",
+                            "Stainless steel appliances",
+                            "Parking",
+                            "Online Rent Payment",
+                            "Coat closet",
+                            "Pet friendly",
+                            "Remodeled unit interior",
+                            "Breakfast bar",
+                            "On-Site Maintenance",
+                            "Dogs Allowed",
+                            "Cats Allowed"
+                        ],
+                        "category": "Community Features"
+                    }
+                ]
+            },
+            {
+                "__typename": "SearchHome",
+                "property_id": "1710548017",
+                "listing_id": "2966797672",
+                "status": "for_rent",
+                "primary_photo": {
+                    "href": "https://ar.rdcpix.com/384aab95198529b7bb96b8c6db69f8afc-f1878499454s.jpg"
+                },
+                "photo_count": 28,
+                "photos": [
+                    {
+                        "href": "http://ar.rdcpix.com/384aab95198529b7bb96b8c6db69f8afc-f1878499454s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/384aab95198529b7bb96b8c6db69f8afc-f3875693632s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/384aab95198529b7bb96b8c6db69f8afc-f1556051839s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/384aab95198529b7bb96b8c6db69f8afc-f1173356136s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/384aab95198529b7bb96b8c6db69f8afc-f4196878244s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/384aab95198529b7bb96b8c6db69f8afc-f2874908278s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/384aab95198529b7bb96b8c6db69f8afc-f1621199662s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/384aab95198529b7bb96b8c6db69f8afc-f2321720773s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/384aab95198529b7bb96b8c6db69f8afc-f809142364s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/384aab95198529b7bb96b8c6db69f8afc-f1417351596s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/384aab95198529b7bb96b8c6db69f8afc-f1324813713s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/384aab95198529b7bb96b8c6db69f8afc-f1705691962s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/384aab95198529b7bb96b8c6db69f8afc-f3892237493s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/384aab95198529b7bb96b8c6db69f8afc-f4230880717s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/384aab95198529b7bb96b8c6db69f8afc-f1934854621s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/384aab95198529b7bb96b8c6db69f8afc-f2780084077s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/384aab95198529b7bb96b8c6db69f8afc-f2933058917s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/384aab95198529b7bb96b8c6db69f8afc-f3736232710s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/384aab95198529b7bb96b8c6db69f8afc-f1317644886s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/384aab95198529b7bb96b8c6db69f8afc-f184187715s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/384aab95198529b7bb96b8c6db69f8afc-f50478946s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/384aab95198529b7bb96b8c6db69f8afc-f1106354178s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/384aab95198529b7bb96b8c6db69f8afc-f693463916s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/384aab95198529b7bb96b8c6db69f8afc-f3682861488s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/384aab95198529b7bb96b8c6db69f8afc-f1973634222s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/384aab95198529b7bb96b8c6db69f8afc-f2452701610s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/384aab95198529b7bb96b8c6db69f8afc-f3513073488s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/384aab95198529b7bb96b8c6db69f8afc-f2526909355s.jpg"
+                    }
+                ],
+                "location": {
+                    "county": {
+                        "name": "Los Angeles"
+                    },
+                    "neighborhoods": [
+                        {
+                            "name": "Southeast LA",
+                            "city": "Los Angeles",
+                            "state_code": "CA",
+                            "level": "macro_neighborhood"
+                        }
+                    ],
+                    "address": {
+                        "line": "16124 Rosecrans Ave",
+                        "unit": null,
+                        "street_number": "16124",
+                        "street_name": "Rosecrans",
+                        "street_suffix": "Ave",
+                        "city": "La Mirada",
+                        "postal_code": "90638",
+                        "state_code": "CA",
+                        "state": "California",
+                        "country": "USA",
+                        "coordinate": {
+                            "lat": 33.89632,
+                            "lon": -117.988881
+                        }
+                    },
+                    "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=16124%20Rosecrans%20Ave%2C%20La%20Mirada%2C%20CA%2090638&size=640x480&source=outdoor&signature=Rz5ITDy_CcVrhpOehfWc_sVwCWU="
+                },
+                "list_price": null,
+                "list_date": "2024-04-12T18:14:55.000000Z",
+                "list_price_min": 1999,
+                "list_price_max": 2684,
+                "price_reduced_date": null,
+                "price_reduced_amount": null,
+                "last_sold_date": "2004-09-30",
+                "last_sold_price": 24500000,
+                "href": "https://www.realtor.com/rentals/details/16124-Rosecrans-Ave_La-Mirada_CA_90638_M17105-48017",
+                "products": {
+                    "products": [
+                        "co_broke",
+                        "rentals_cost_per_lead_hybrid"
+                    ]
+                },
+                "description": {
+                    "baths": null,
+                    "baths_min": 1,
+                    "baths_max": 1.5,
+                    "baths_full_calc": null,
+                    "baths_partial_calc": null,
+                    "beds_min": 1,
+                    "beds_max": 2,
+                    "beds": null,
+                    "sqft": null,
+                    "lot_sqft": null,
+                    "type": "apartment",
+                    "sqft_min": 765,
+                    "sqft_max": 1116
+                },
+                "open_houses": null,
+                "branding": [
+                    {
+                        "type": "Office",
+                        "name": null
+                    }
+                ],
+                "flags": {
+                    "is_contingent": null,
+                    "is_new_construction": null,
+                    "is_pending": null,
+                    "is_foreclosure": null,
+                    "is_deal_available": null,
+                    "is_plan": null,
+                    "is_price_reduced": null,
+                    "is_new_listing": false,
+                    "is_coming_soon": null
+                },
+                "lead_attributes": {
+                    "opcity_lead_attributes": {
+                        "flip_the_market_enabled": false
+                    },
+                    "show_contact_an_agent": true,
+                    "is_tcpa_message_enabled": null,
+                    "is_premium_ldp": false
+                },
+                "virtual_tours": null,
+                "matterport": true,
+                "advertisers": [
+                    {
+                        "fulfillment_id": "100463603",
+                        "name": "Zillow",
+                        "type": "management",
+                        "office": {
+                            "name": "United Dominion Residential Communities"
+                        },
+                        "builder": null
+                    },
+                    {
+                        "fulfillment_id": "100463603",
+                        "name": "Zillow",
+                        "type": "community",
+                        "office": {
+                            "name": "Rosebeach"
+                        },
+                        "builder": null
+                    }
+                ],
+                "source": {
+                    "type": "community",
+                    "plan_id": null,
+                    "listing_id": "3qkux7cukbz2b",
+                    "community_id": 4227788,
+                    "id": "ZILL",
+                    "name": "Zillow",
+                    "disclaimer": null,
+                    "feed_type": "Syndicator Community",
+                    "agents": null
+                },
+                "pet_policy": {
+                    "cats": true,
+                    "dogs": true,
+                    "dogs_small": false,
+                    "dogs_large": false
+                },
+                "property_history": null,
+                "search_promotions": null,
+                "has_specials": true,
+                "estimate": null,
+                "current_estimates": [],
+                "details": [
+                    {
+                        "text": [
+                            "Fitness Center",
+                            "Laundry",
+                            "Play Ground",
+                            "Pool",
+                            "Off Street",
+                            "Picnic Area",
+                            "Smart Home GiGstreem Internet",
+                            "Stainless steel appliances",
+                            "Lifestyle services powered by Amenify",
+                            "Pet friendly",
+                            "On-Site Maintenance",
+                            "Deposit free with Rhino",
+                            "Quartz countertops",
+                            "Resident App",
+                            "Home purchase plan",
+                            "Moving services with Move Matcher",
+                            "Flexible work from home space",
+                            "On-Site Management",
+                            "Bi-weekly payment program",
+                            "Build credit score with RentTrack",
+                            "Breakfast bar",
+                            "Dogs Allowed",
+                            "Cats Allowed"
+                        ],
+                        "category": "Community Features"
+                    }
+                ]
+            },
+            {
+                "__typename": "SearchHome",
+                "property_id": "1266111209",
+                "listing_id": "2966799171",
+                "status": "for_rent",
+                "primary_photo": {
+                    "href": "https://ar.rdcpix.com/3c8f03608c06ea521742b2a4b588646bc-f2503725342s.jpg"
+                },
+                "photo_count": 18,
+                "photos": [
+                    {
+                        "href": "http://ar.rdcpix.com/3c8f03608c06ea521742b2a4b588646bc-f2503725342s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/3c8f03608c06ea521742b2a4b588646bc-f1964586642s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/3c8f03608c06ea521742b2a4b588646bc-f1618383115s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/3c8f03608c06ea521742b2a4b588646bc-f1691862660s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/3c8f03608c06ea521742b2a4b588646bc-f2085756765s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/3c8f03608c06ea521742b2a4b588646bc-f3514995871s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/3c8f03608c06ea521742b2a4b588646bc-f1953672924s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/3c8f03608c06ea521742b2a4b588646bc-f3861010730s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/3c8f03608c06ea521742b2a4b588646bc-f1069763961s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/3c8f03608c06ea521742b2a4b588646bc-f1755264384s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/3c8f03608c06ea521742b2a4b588646bc-f854197156s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/3c8f03608c06ea521742b2a4b588646bc-f125466354s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/3c8f03608c06ea521742b2a4b588646bc-f4070613679s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/3c8f03608c06ea521742b2a4b588646bc-f3222856383s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/3c8f03608c06ea521742b2a4b588646bc-f1924907194s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/3c8f03608c06ea521742b2a4b588646bc-f3555571482s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/3c8f03608c06ea521742b2a4b588646bc-f1060914485s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/3c8f03608c06ea521742b2a4b588646bc-f1851232581s.jpg"
+                    }
+                ],
+                "location": {
+                    "county": {
+                        "name": "Orange"
+                    },
+                    "neighborhoods": null,
+                    "address": {
+                        "line": "1717 E Birch St",
+                        "unit": null,
+                        "street_number": "1717",
+                        "street_name": "Birch",
+                        "street_suffix": "St",
+                        "city": "Brea",
+                        "postal_code": "92821",
+                        "state_code": "CA",
+                        "state": "California",
+                        "country": "USA",
+                        "coordinate": {
+                            "lat": 33.919136,
+                            "lon": -117.877042
+                        }
+                    },
+                    "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=1717%20E%20Birch%20St%2C%20Brea%2C%20CA%2092821&size=640x480&source=outdoor&signature=Pdsx1RiF4AA_bn2_SS83pWfmXBc="
+                },
+                "list_price": null,
+                "list_date": "2024-04-26T18:46:28.000000Z",
+                "list_price_min": 1975,
+                "list_price_max": 2975,
+                "price_reduced_date": null,
+                "price_reduced_amount": null,
+                "last_sold_date": null,
+                "last_sold_price": null,
+                "href": "https://www.realtor.com/rentals/details/1717-E-Birch-St_Brea_CA_92821_M12661-11209",
+                "products": {
+                    "products": [
+                        "co_broke",
+                        "rentals_cost_per_lead_hybrid"
+                    ]
+                },
+                "description": {
+                    "baths": null,
+                    "baths_min": 1,
+                    "baths_max": 2,
+                    "baths_full_calc": null,
+                    "baths_partial_calc": null,
+                    "beds_min": 0,
+                    "beds_max": 2,
+                    "beds": null,
+                    "sqft": null,
+                    "lot_sqft": null,
+                    "type": "apartment",
+                    "sqft_min": 490,
+                    "sqft_max": 947
+                },
+                "open_houses": null,
+                "branding": [
+                    {
+                        "type": "Office",
+                        "name": null
+                    }
+                ],
+                "flags": {
+                    "is_contingent": null,
+                    "is_new_construction": null,
+                    "is_pending": null,
+                    "is_foreclosure": null,
+                    "is_deal_available": null,
+                    "is_plan": null,
+                    "is_price_reduced": null,
+                    "is_new_listing": false,
+                    "is_coming_soon": null
+                },
+                "lead_attributes": {
+                    "opcity_lead_attributes": {
+                        "flip_the_market_enabled": false
+                    },
+                    "show_contact_an_agent": true,
+                    "is_tcpa_message_enabled": null,
+                    "is_premium_ldp": false
+                },
+                "virtual_tours": null,
+                "matterport": true,
+                "advertisers": [
+                    {
+                        "fulfillment_id": "100463603",
+                        "name": "Zillow",
+                        "type": "management",
+                        "office": {
+                            "name": "Western National Property Management"
+                        },
+                        "builder": null
+                    },
+                    {
+                        "fulfillment_id": "100463603",
+                        "name": "Zillow",
+                        "type": "community",
+                        "office": {
+                            "name": "Birchwood Village Apartment Homes"
+                        },
+                        "builder": null
+                    }
+                ],
+                "source": {
+                    "type": "community",
+                    "plan_id": null,
+                    "listing_id": "d3fy3zf7cw2q",
+                    "community_id": 4347390,
+                    "id": "ZILL",
+                    "name": "Zillow",
+                    "disclaimer": null,
+                    "feed_type": "Syndicator Community",
+                    "agents": null
+                },
+                "pet_policy": {
+                    "cats": true,
+                    "dogs": true,
+                    "dogs_small": false,
+                    "dogs_large": false
+                },
+                "property_history": null,
+                "search_promotions": null,
+                "has_specials": true,
+                "estimate": null,
+                "current_estimates": [],
+                "details": [
+                    {
+                        "text": [
+                            "Club House",
+                            "Fitness Center",
+                            "Laundry",
+                            "Pool",
+                            "Spa",
+                            "Tennis Court",
+                            "Volleyball Court",
+                            "Gate",
+                            "Closets In Select Apartment Homes",
+                            "Corporate Housing",
+                            "On-Site Management",
+                            "On-Site Maintenance",
+                            "Dogs Allowed",
+                            "Cats Allowed"
+                        ],
+                        "category": "Community Features"
+                    }
+                ]
+            },
+            {
+                "__typename": "SearchHome",
+                "property_id": "2792235837",
+                "listing_id": "2966798956",
+                "status": "for_rent",
+                "primary_photo": {
+                    "href": "https://ar.rdcpix.com/4bfbae99e87b92617de35191ba01157ac-f3983143891s.jpg"
+                },
+                "photo_count": 21,
+                "photos": [
+                    {
+                        "href": "http://ar.rdcpix.com/4bfbae99e87b92617de35191ba01157ac-f3983143891s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/4bfbae99e87b92617de35191ba01157ac-f4213920844s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/4bfbae99e87b92617de35191ba01157ac-f3544382149s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/4bfbae99e87b92617de35191ba01157ac-f208132117s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/4bfbae99e87b92617de35191ba01157ac-f2187864913s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/4bfbae99e87b92617de35191ba01157ac-f3819735735s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/4bfbae99e87b92617de35191ba01157ac-f296339508s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/4bfbae99e87b92617de35191ba01157ac-f560862006s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/4bfbae99e87b92617de35191ba01157ac-f4144025404s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/4bfbae99e87b92617de35191ba01157ac-f2505121955s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/4bfbae99e87b92617de35191ba01157ac-f3268283250s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/4bfbae99e87b92617de35191ba01157ac-f162651542s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/4bfbae99e87b92617de35191ba01157ac-f1644698192s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/4bfbae99e87b92617de35191ba01157ac-f707272278s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/4bfbae99e87b92617de35191ba01157ac-f688838717s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/4bfbae99e87b92617de35191ba01157ac-f4051632411s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/4bfbae99e87b92617de35191ba01157ac-f1479769038s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/4bfbae99e87b92617de35191ba01157ac-f3521308667s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/4bfbae99e87b92617de35191ba01157ac-f3709385723s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/4bfbae99e87b92617de35191ba01157ac-f996839445s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/4bfbae99e87b92617de35191ba01157ac-f3743419958s.jpg"
+                    }
+                ],
+                "location": {
+                    "county": {
+                        "name": "Orange"
+                    },
+                    "neighborhoods": null,
+                    "address": {
+                        "line": "3300 Quartz Ln",
+                        "unit": null,
+                        "street_number": "3300",
+                        "street_name": "Quartz",
+                        "street_suffix": "Ln",
+                        "city": "Fullerton",
+                        "postal_code": "92831",
+                        "state_code": "CA",
+                        "state": "California",
+                        "country": "USA",
+                        "coordinate": {
+                            "lat": 33.88343,
+                            "lon": -117.86747
+                        }
+                    },
+                    "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=3300%20Quartz%20Ln%2C%20Fullerton%2C%20CA%2092831&size=640x480&source=outdoor&signature=Fu82swdWq2DhA4RDc7qKgvwY7k8="
+                },
+                "list_price": null,
+                "list_date": "2024-04-26T18:46:28.000000Z",
+                "list_price_min": 2035,
+                "list_price_max": 2795,
+                "price_reduced_date": null,
+                "price_reduced_amount": null,
+                "last_sold_date": null,
+                "last_sold_price": null,
+                "href": "https://www.realtor.com/rentals/details/3300-Quartz-Ln_Fullerton_CA_92831_M27922-35837",
+                "products": {
+                    "products": [
+                        "co_broke",
+                        "rentals_cost_per_lead_hybrid"
+                    ]
+                },
+                "description": {
+                    "baths": null,
+                    "baths_min": 1,
+                    "baths_max": 2,
+                    "baths_full_calc": null,
+                    "baths_partial_calc": null,
+                    "beds_min": 1,
+                    "beds_max": 2,
+                    "beds": null,
+                    "sqft": null,
+                    "lot_sqft": null,
+                    "type": "apartment",
+                    "sqft_min": 714,
+                    "sqft_max": 1050
+                },
+                "open_houses": null,
+                "branding": [
+                    {
+                        "type": "Office",
+                        "name": null
+                    }
+                ],
+                "flags": {
+                    "is_contingent": null,
+                    "is_new_construction": null,
+                    "is_pending": null,
+                    "is_foreclosure": null,
+                    "is_deal_available": null,
+                    "is_plan": null,
+                    "is_price_reduced": null,
+                    "is_new_listing": false,
+                    "is_coming_soon": null
+                },
+                "lead_attributes": {
+                    "opcity_lead_attributes": {
+                        "flip_the_market_enabled": false
+                    },
+                    "show_contact_an_agent": true,
+                    "is_tcpa_message_enabled": null,
+                    "is_premium_ldp": false
+                },
+                "virtual_tours": null,
+                "matterport": false,
+                "advertisers": [
+                    {
+                        "fulfillment_id": "100463603",
+                        "name": "Zillow",
+                        "type": "management",
+                        "office": {
+                            "name": "Western National Property Management"
+                        },
+                        "builder": null
+                    },
+                    {
+                        "fulfillment_id": "100463603",
+                        "name": "Zillow",
+                        "type": "community",
+                        "office": {
+                            "name": "R.C. Briarwood Apartment Homes"
+                        },
+                        "builder": null
+                    }
+                ],
+                "source": {
+                    "type": "community",
+                    "plan_id": null,
+                    "listing_id": "204nm3s7v5jkx",
+                    "community_id": 4347082,
+                    "id": "ZILL",
+                    "name": "Zillow",
+                    "disclaimer": null,
+                    "feed_type": "Syndicator Community",
+                    "agents": null
+                },
+                "pet_policy": {
+                    "cats": true,
+                    "dogs": true,
+                    "dogs_small": false,
+                    "dogs_large": false
+                },
+                "property_history": null,
+                "search_promotions": null,
+                "has_specials": true,
+                "estimate": null,
+                "current_estimates": [],
+                "details": [
+                    {
+                        "text": [
+                            "Club House",
+                            "Fitness Center",
+                            "Laundry",
+                            "Pool",
+                            "Spa",
+                            "Volleyball Court",
+                            "Gate",
+                            "Closets",
+                            "Parking",
+                            "On-Site Maintenance",
+                            "Dogs Allowed",
+                            "Cats Allowed"
+                        ],
+                        "category": "Community Features"
+                    }
+                ]
+            },
+            {
+                "__typename": "SearchHome",
+                "property_id": "1391272470",
+                "listing_id": "2978051342",
+                "status": "for_rent",
+                "primary_photo": {
+                    "href": "https://ar.rdcpix.com/2889cc578268c07b95da4652aa7cd91fc-f3001539435s.jpg"
+                },
+                "photo_count": 12,
+                "photos": [
+                    {
+                        "href": "http://ar.rdcpix.com/2889cc578268c07b95da4652aa7cd91fc-f3001539435s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/2889cc578268c07b95da4652aa7cd91fc-f4280103001s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/2889cc578268c07b95da4652aa7cd91fc-f277935902s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/2889cc578268c07b95da4652aa7cd91fc-f825886782s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/2889cc578268c07b95da4652aa7cd91fc-f1964283405s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/2889cc578268c07b95da4652aa7cd91fc-f2893368007s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/2889cc578268c07b95da4652aa7cd91fc-f3259505180s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/2889cc578268c07b95da4652aa7cd91fc-f1671770783s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/2889cc578268c07b95da4652aa7cd91fc-f4067941536s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/2889cc578268c07b95da4652aa7cd91fc-f2931183465s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/2889cc578268c07b95da4652aa7cd91fc-f3939192684s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/2889cc578268c07b95da4652aa7cd91fc-f3795011442s.jpg"
+                    }
+                ],
+                "location": {
+                    "county": {
+                        "name": "Orange"
+                    },
+                    "neighborhoods": null,
+                    "address": {
+                        "line": "1230 W Hillandale Ave",
+                        "unit": null,
+                        "street_number": "1230",
+                        "street_name": "Hillandale",
+                        "street_suffix": "Ave",
+                        "city": "La Habra",
+                        "postal_code": "90631",
+                        "state_code": "CA",
+                        "state": "California",
+                        "country": "USA",
+                        "coordinate": {
+                            "lat": 33.929019,
+                            "lon": -117.959875
+                        }
+                    },
+                    "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=1230%20W%20Hillandale%20Ave%2C%20La%20Habra%2C%20CA%2090631&size=640x480&source=outdoor&signature=LqBjvgixX4_fDUtWly-MNTwTmEs="
+                },
+                "list_price": null,
+                "list_date": "2025-02-07T00:23:58.000000Z",
+                "list_price_min": 1795,
+                "list_price_max": 1795,
+                "price_reduced_date": null,
+                "price_reduced_amount": null,
+                "last_sold_date": "2024-12-20",
+                "last_sold_price": 2538000,
+                "href": "https://www.realtor.com/rentals/details/1230-Hillandale-Ave_La-Habra_CA_90631_M13912-72470",
+                "products": {
+                    "products": [
+                        "co_broke",
+                        "rentals_cost_per_lead_hybrid"
+                    ]
+                },
+                "description": {
+                    "baths": null,
+                    "baths_min": 0,
+                    "baths_max": 0,
+                    "baths_full_calc": null,
+                    "baths_partial_calc": null,
+                    "beds_min": 0,
+                    "beds_max": 0,
+                    "beds": null,
+                    "sqft": null,
+                    "lot_sqft": null,
+                    "type": "apartment",
+                    "sqft_min": null,
+                    "sqft_max": null
+                },
+                "open_houses": null,
+                "branding": [
+                    {
+                        "type": "Office",
+                        "name": null
+                    }
+                ],
+                "flags": {
+                    "is_contingent": null,
+                    "is_new_construction": null,
+                    "is_pending": null,
+                    "is_foreclosure": null,
+                    "is_deal_available": null,
+                    "is_plan": null,
+                    "is_price_reduced": null,
+                    "is_new_listing": true,
+                    "is_coming_soon": null
+                },
+                "lead_attributes": {
+                    "opcity_lead_attributes": {
+                        "flip_the_market_enabled": false
+                    },
+                    "show_contact_an_agent": true,
+                    "is_tcpa_message_enabled": null,
+                    "is_premium_ldp": false
+                },
+                "virtual_tours": null,
+                "matterport": false,
+                "advertisers": [
+                    {
+                        "fulfillment_id": "100463603",
+                        "name": "Zillow",
+                        "type": "management",
+                        "office": {
+                            "name": "Beach Front Property Management"
+                        },
+                        "builder": null
+                    },
+                    {
+                        "fulfillment_id": "100463603",
+                        "name": "Zillow",
+                        "type": "community",
+                        "office": {
+                            "name": "1230 W. Hillandale Ave."
+                        },
+                        "builder": null
+                    }
+                ],
+                "source": {
+                    "type": "community",
+                    "plan_id": null,
+                    "listing_id": "42ac035enerdm",
+                    "community_id": 4721330,
+                    "id": "ZILL",
+                    "name": "Zillow",
+                    "disclaimer": null,
+                    "feed_type": "Syndicator Community",
+                    "agents": null
+                },
+                "pet_policy": {
+                    "cats": true,
+                    "dogs": true,
+                    "dogs_small": false,
+                    "dogs_large": false
+                },
+                "property_history": null,
+                "search_promotions": null,
+                "has_specials": false,
+                "estimate": null,
+                "current_estimates": [
+                    {
+                        "estimate": 2552996,
+                        "isbest_homevalue": true
+                    },
+                    {
+                        "estimate": 1276000,
+                        "isbest_homevalue": false
+                    }
+                ],
+                "details": [
+                    {
+                        "text": [
+                            "Dogs Allowed",
+                            "Cats Allowed"
+                        ],
+                        "category": "Community Features"
+                    }
+                ]
+            },
+            {
+                "__typename": "SearchHome",
+                "property_id": "2987279207",
+                "listing_id": "2966800711",
+                "status": "for_rent",
+                "primary_photo": {
+                    "href": "https://ar.rdcpix.com/342d4554b57354b569fa2d3f596409a4c-f402472634s.jpg"
+                },
+                "photo_count": 20,
+                "photos": [
+                    {
+                        "href": "http://ar.rdcpix.com/342d4554b57354b569fa2d3f596409a4c-f402472634s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/342d4554b57354b569fa2d3f596409a4c-f1198960114s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/342d4554b57354b569fa2d3f596409a4c-f952085019s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/342d4554b57354b569fa2d3f596409a4c-f2324577994s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/342d4554b57354b569fa2d3f596409a4c-f3396661874s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/342d4554b57354b569fa2d3f596409a4c-f3759091134s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/342d4554b57354b569fa2d3f596409a4c-f120458731s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/342d4554b57354b569fa2d3f596409a4c-f662125823s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/342d4554b57354b569fa2d3f596409a4c-f1561466185s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/342d4554b57354b569fa2d3f596409a4c-f1964066807s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/342d4554b57354b569fa2d3f596409a4c-f3328226258s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/342d4554b57354b569fa2d3f596409a4c-f3356515362s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/342d4554b57354b569fa2d3f596409a4c-f2582291155s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/342d4554b57354b569fa2d3f596409a4c-f3293066049s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/342d4554b57354b569fa2d3f596409a4c-f1394539237s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/342d4554b57354b569fa2d3f596409a4c-f3489755362s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/342d4554b57354b569fa2d3f596409a4c-f4278167444s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/342d4554b57354b569fa2d3f596409a4c-f2073696683s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/342d4554b57354b569fa2d3f596409a4c-f35397563s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/342d4554b57354b569fa2d3f596409a4c-f816668254s.jpg"
+                    }
+                ],
+                "location": {
+                    "county": {
+                        "name": "Orange"
+                    },
+                    "neighborhoods": null,
+                    "address": {
+                        "line": "200 E Chapman Ave",
+                        "unit": null,
+                        "street_number": "200",
+                        "street_name": "Chapman",
+                        "street_suffix": "Ave",
+                        "city": "Placentia",
+                        "postal_code": "92870",
+                        "state_code": "CA",
+                        "state": "California",
+                        "country": "USA",
+                        "coordinate": {
+                            "lat": 33.871377,
+                            "lon": -117.868767
+                        }
+                    },
+                    "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=200%20E%20Chapman%20Ave%2C%20Placentia%2C%20CA%2092870&size=640x480&source=outdoor&signature=nbPsFQLcVA5uCgeujb-jIcxex_k="
+                },
+                "list_price": null,
+                "list_date": "2024-04-26T18:46:28.000000Z",
+                "list_price_min": 2595,
+                "list_price_max": 2595,
+                "price_reduced_date": null,
+                "price_reduced_amount": null,
+                "last_sold_date": "2007-11-16",
+                "last_sold_price": 4150000,
+                "href": "https://www.realtor.com/rentals/details/200-E-Chapman-Ave_Placentia_CA_92870_M29872-79207",
+                "products": {
+                    "products": [
+                        "co_broke",
+                        "rentals_cost_per_lead_hybrid"
+                    ]
+                },
+                "description": {
+                    "baths": null,
+                    "baths_min": 2,
+                    "baths_max": 2,
+                    "baths_full_calc": null,
+                    "baths_partial_calc": null,
+                    "beds_min": 2,
+                    "beds_max": 2,
+                    "beds": null,
+                    "sqft": null,
+                    "lot_sqft": null,
+                    "type": "apartment",
+                    "sqft_min": null,
+                    "sqft_max": null
+                },
+                "open_houses": null,
+                "branding": [
+                    {
+                        "type": "Office",
+                        "name": null
+                    }
+                ],
+                "flags": {
+                    "is_contingent": null,
+                    "is_new_construction": null,
+                    "is_pending": null,
+                    "is_foreclosure": null,
+                    "is_deal_available": null,
+                    "is_plan": null,
+                    "is_price_reduced": null,
+                    "is_new_listing": false,
+                    "is_coming_soon": null
+                },
+                "lead_attributes": {
+                    "opcity_lead_attributes": {
+                        "flip_the_market_enabled": false
+                    },
+                    "show_contact_an_agent": true,
+                    "is_tcpa_message_enabled": null,
+                    "is_premium_ldp": false
+                },
+                "virtual_tours": null,
+                "matterport": true,
+                "advertisers": [
+                    {
+                        "fulfillment_id": "100463603",
+                        "name": "Zillow",
+                        "type": "management",
+                        "office": {
+                            "name": "L'Abri Management"
+                        },
+                        "builder": null
+                    },
+                    {
+                        "fulfillment_id": "100463603",
+                        "name": "Zillow",
+                        "type": "community",
+                        "office": {
+                            "name": "Chapman Woods"
+                        },
+                        "builder": null
+                    }
+                ],
+                "source": {
+                    "type": "community",
+                    "plan_id": null,
+                    "listing_id": "1tmmwg7a36usc",
+                    "community_id": 4349675,
+                    "id": "ZILL",
+                    "name": "Zillow",
+                    "disclaimer": null,
+                    "feed_type": "Syndicator Community",
+                    "agents": null
+                },
+                "pet_policy": {
+                    "cats": false,
+                    "dogs": false,
+                    "dogs_small": false,
+                    "dogs_large": false
+                },
+                "property_history": null,
+                "search_promotions": null,
+                "has_specials": true,
+                "estimate": null,
+                "current_estimates": [
+                    {
+                        "estimate": 8198502,
+                        "isbest_homevalue": true
+                    },
+                    {
+                        "estimate": 1239000,
+                        "isbest_homevalue": false
+                    }
+                ],
+                "details": [
+                    {
+                        "text": [
+                            "Laundry",
+                            "Barbecue Area",
+                            "Granite countertops"
+                        ],
+                        "category": "Community Features"
+                    }
+                ]
+            },
+            {
+                "__typename": "SearchHome",
+                "property_id": "2958249038",
+                "listing_id": "2966799190",
+                "status": "for_rent",
+                "primary_photo": {
+                    "href": "https://ar.rdcpix.com/ef68b6e4a89d004bf76a466634947250c-f370288544s.jpg"
+                },
+                "photo_count": 43,
+                "photos": [
+                    {
+                        "href": "http://ar.rdcpix.com/ef68b6e4a89d004bf76a466634947250c-f370288544s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/ef68b6e4a89d004bf76a466634947250c-f3540745811s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/ef68b6e4a89d004bf76a466634947250c-f4145788365s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/ef68b6e4a89d004bf76a466634947250c-f1616181301s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/ef68b6e4a89d004bf76a466634947250c-f985838937s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/ef68b6e4a89d004bf76a466634947250c-f2483478541s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/ef68b6e4a89d004bf76a466634947250c-f2381131764s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/ef68b6e4a89d004bf76a466634947250c-f932019457s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/ef68b6e4a89d004bf76a466634947250c-f910062927s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/ef68b6e4a89d004bf76a466634947250c-f327202723s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/ef68b6e4a89d004bf76a466634947250c-f1201904292s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/ef68b6e4a89d004bf76a466634947250c-f2044114277s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/ef68b6e4a89d004bf76a466634947250c-f1781210386s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/ef68b6e4a89d004bf76a466634947250c-f1948450685s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/ef68b6e4a89d004bf76a466634947250c-f9819021s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/ef68b6e4a89d004bf76a466634947250c-f1819862227s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/ef68b6e4a89d004bf76a466634947250c-f3905369946s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/ef68b6e4a89d004bf76a466634947250c-f3330813308s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/ef68b6e4a89d004bf76a466634947250c-f2206417341s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/ef68b6e4a89d004bf76a466634947250c-f3012201661s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/ef68b6e4a89d004bf76a466634947250c-f4077890818s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/ef68b6e4a89d004bf76a466634947250c-f454600044s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/ef68b6e4a89d004bf76a466634947250c-f2069009393s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/ef68b6e4a89d004bf76a466634947250c-f4072335527s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/ef68b6e4a89d004bf76a466634947250c-f3894625426s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/ef68b6e4a89d004bf76a466634947250c-f268180886s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/ef68b6e4a89d004bf76a466634947250c-f1713793337s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/ef68b6e4a89d004bf76a466634947250c-f1900534791s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/ef68b6e4a89d004bf76a466634947250c-f3446860646s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/ef68b6e4a89d004bf76a466634947250c-f1192302175s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/ef68b6e4a89d004bf76a466634947250c-f1959226231s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/ef68b6e4a89d004bf76a466634947250c-f3054284636s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/ef68b6e4a89d004bf76a466634947250c-f4084319440s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/ef68b6e4a89d004bf76a466634947250c-f1051932161s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/ef68b6e4a89d004bf76a466634947250c-f1509049979s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/ef68b6e4a89d004bf76a466634947250c-f274202807s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/ef68b6e4a89d004bf76a466634947250c-f3863605484s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/ef68b6e4a89d004bf76a466634947250c-f3898773828s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/ef68b6e4a89d004bf76a466634947250c-f2152371231s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/ef68b6e4a89d004bf76a466634947250c-f3799408636s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/ef68b6e4a89d004bf76a466634947250c-f152134443s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/ef68b6e4a89d004bf76a466634947250c-f3953677418s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/ef68b6e4a89d004bf76a466634947250c-f3000055736s.jpg"
+                    }
+                ],
+                "location": {
+                    "county": {
+                        "name": "Orange"
+                    },
+                    "neighborhoods": null,
+                    "address": {
+                        "line": "650 Tamarack Ave",
+                        "unit": null,
+                        "street_number": "650",
+                        "street_name": "Tamarack",
+                        "street_suffix": "Ave",
+                        "city": "Brea",
+                        "postal_code": "92821",
+                        "state_code": "CA",
+                        "state": "California",
+                        "country": "USA",
+                        "coordinate": {
+                            "lat": 33.929706,
+                            "lon": -117.899189
+                        }
+                    },
+                    "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=650%20Tamarack%20Ave%2C%20Brea%2C%20CA%2092821&size=640x480&source=outdoor&signature=LF8ullEpT_sVn2BszJaBVlnigUo="
+                },
+                "list_price": null,
+                "list_date": "2024-04-26T18:46:28.000000Z",
+                "list_price_min": 2000,
+                "list_price_max": 2770,
+                "price_reduced_date": null,
+                "price_reduced_amount": null,
+                "last_sold_date": null,
+                "last_sold_price": null,
+                "href": "https://www.realtor.com/rentals/details/650-Tamarack-Ave_Brea_CA_92821_M29582-49038",
+                "products": {
+                    "products": [
+                        "co_broke",
+                        "rentals_cost_per_lead_hybrid"
+                    ]
+                },
+                "description": {
+                    "baths": null,
+                    "baths_min": 1,
+                    "baths_max": 2,
+                    "baths_full_calc": null,
+                    "baths_partial_calc": null,
+                    "beds_min": 0,
+                    "beds_max": 2,
+                    "beds": null,
+                    "sqft": null,
+                    "lot_sqft": null,
+                    "type": "apartment",
+                    "sqft_min": 500,
+                    "sqft_max": 1000
+                },
+                "open_houses": null,
+                "branding": [
+                    {
+                        "type": "Office",
+                        "name": null
+                    }
+                ],
+                "flags": {
+                    "is_contingent": null,
+                    "is_new_construction": null,
+                    "is_pending": null,
+                    "is_foreclosure": null,
+                    "is_deal_available": null,
+                    "is_plan": null,
+                    "is_price_reduced": null,
+                    "is_new_listing": false,
+                    "is_coming_soon": null
+                },
+                "lead_attributes": {
+                    "opcity_lead_attributes": {
+                        "flip_the_market_enabled": false
+                    },
+                    "show_contact_an_agent": true,
+                    "is_tcpa_message_enabled": null,
+                    "is_premium_ldp": false
+                },
+                "virtual_tours": null,
+                "matterport": true,
+                "advertisers": [
+                    {
+                        "fulfillment_id": "100463603",
+                        "name": "Zillow",
+                        "type": "management",
+                        "office": {
+                            "name": "Western National Property Management"
+                        },
+                        "builder": null
+                    },
+                    {
+                        "fulfillment_id": "100463603",
+                        "name": "Zillow",
+                        "type": "community",
+                        "office": {
+                            "name": "Raintree Apartment Homes"
+                        },
+                        "builder": null
+                    }
+                ],
+                "source": {
+                    "type": "community",
+                    "plan_id": null,
+                    "listing_id": "4prgnqj3nu3de",
+                    "community_id": 4347303,
+                    "id": "ZILL",
+                    "name": "Zillow",
+                    "disclaimer": null,
+                    "feed_type": "Syndicator Community",
+                    "agents": null
+                },
+                "pet_policy": {
+                    "cats": true,
+                    "dogs": true,
+                    "dogs_small": false,
+                    "dogs_large": false
+                },
+                "property_history": null,
+                "search_promotions": null,
+                "has_specials": true,
+                "estimate": null,
+                "current_estimates": [],
+                "details": [
+                    {
+                        "text": [
+                            "Club House",
+                            "Fitness Center",
+                            "Laundry",
+                            "Pool",
+                            "Spa",
+                            "Tennis Court",
+                            "Closets In Select Apartment Homes",
+                            "Corporate Housing",
+                            "On-Site Management",
+                            "On-Site Maintenance",
+                            "Dogs Allowed",
+                            "Cats Allowed"
+                        ],
+                        "category": "Community Features"
+                    }
+                ]
+            },
+            {
+                "__typename": "SearchHome",
+                "property_id": "9108057791",
+                "listing_id": "2976399159",
+                "status": "for_rent",
+                "primary_photo": {
+                    "href": "https://ar.rdcpix.com/2cf50fd813a690d5072d7f0c28fae469c-f3897454116s.jpg"
+                },
+                "photo_count": 36,
+                "photos": [
+                    {
+                        "href": "http://ar.rdcpix.com/2cf50fd813a690d5072d7f0c28fae469c-f3897454116s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/2cf50fd813a690d5072d7f0c28fae469c-f1954262835s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/2cf50fd813a690d5072d7f0c28fae469c-f205528785s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/2cf50fd813a690d5072d7f0c28fae469c-f4092369840s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/2cf50fd813a690d5072d7f0c28fae469c-f1468082811s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/2cf50fd813a690d5072d7f0c28fae469c-f4276329224s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/2cf50fd813a690d5072d7f0c28fae469c-f2985378979s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/2cf50fd813a690d5072d7f0c28fae469c-f1617890266s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/2cf50fd813a690d5072d7f0c28fae469c-f2744821114s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/2cf50fd813a690d5072d7f0c28fae469c-f2298103991s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/2cf50fd813a690d5072d7f0c28fae469c-f2186101076s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/2cf50fd813a690d5072d7f0c28fae469c-f328231190s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/2cf50fd813a690d5072d7f0c28fae469c-f2241084537s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/2cf50fd813a690d5072d7f0c28fae469c-f2677608338s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/2cf50fd813a690d5072d7f0c28fae469c-f1389531351s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/2cf50fd813a690d5072d7f0c28fae469c-f1955718072s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/2cf50fd813a690d5072d7f0c28fae469c-f2303234190s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/2cf50fd813a690d5072d7f0c28fae469c-f1563884440s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/2cf50fd813a690d5072d7f0c28fae469c-f1134827958s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/2cf50fd813a690d5072d7f0c28fae469c-f494598275s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/2cf50fd813a690d5072d7f0c28fae469c-f359659852s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/2cf50fd813a690d5072d7f0c28fae469c-f2089387010s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/2cf50fd813a690d5072d7f0c28fae469c-f1315872829s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/2cf50fd813a690d5072d7f0c28fae469c-f192307859s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/2cf50fd813a690d5072d7f0c28fae469c-f2077598833s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/2cf50fd813a690d5072d7f0c28fae469c-f3526150528s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/2cf50fd813a690d5072d7f0c28fae469c-f795773179s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/2cf50fd813a690d5072d7f0c28fae469c-f3003590638s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/2cf50fd813a690d5072d7f0c28fae469c-f2155781742s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/2cf50fd813a690d5072d7f0c28fae469c-f324035470s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/2cf50fd813a690d5072d7f0c28fae469c-f3062905708s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/2cf50fd813a690d5072d7f0c28fae469c-f4210555333s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/2cf50fd813a690d5072d7f0c28fae469c-f4202538733s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/2cf50fd813a690d5072d7f0c28fae469c-f360028044s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/2cf50fd813a690d5072d7f0c28fae469c-f3703969872s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/2cf50fd813a690d5072d7f0c28fae469c-f1778016056s.jpg"
+                    }
+                ],
+                "location": {
+                    "county": {
+                        "name": "Orange"
+                    },
+                    "neighborhoods": null,
+                    "address": {
+                        "line": "250 E Acacia St",
+                        "unit": null,
+                        "street_number": "250",
+                        "street_name": "Acacia",
+                        "street_suffix": "St",
+                        "city": "Brea",
+                        "postal_code": "92821",
+                        "state_code": "CA",
+                        "state": "California",
+                        "country": "USA",
+                        "coordinate": {
+                            "lat": 33.907038,
+                            "lon": -117.902254
+                        }
+                    },
+                    "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=250%20E%20Acacia%20St%2C%20Brea%2C%20CA%2092821&size=640x480&source=outdoor&signature=4C1kXGgS46wN5EYYhzsRbDdAVAg="
+                },
+                "list_price": null,
+                "list_date": "2024-12-15T00:25:51.000000Z",
+                "list_price_min": 2695,
+                "list_price_max": 2695,
+                "price_reduced_date": null,
+                "price_reduced_amount": null,
+                "last_sold_date": null,
+                "last_sold_price": null,
+                "href": "https://www.realtor.com/rentals/details/250-E-Acacia-St_Brea_CA_92821_M91080-57791",
+                "products": {
+                    "products": [
+                        "co_broke",
+                        "rentals_cost_per_lead_hybrid"
+                    ]
+                },
+                "description": {
+                    "baths": null,
+                    "baths_min": 2,
+                    "baths_max": 2,
+                    "baths_full_calc": null,
+                    "baths_partial_calc": null,
+                    "beds_min": 2,
+                    "beds_max": 2,
+                    "beds": null,
+                    "sqft": null,
+                    "lot_sqft": null,
+                    "type": "apartment",
+                    "sqft_min": null,
+                    "sqft_max": null
+                },
+                "open_houses": null,
+                "branding": [
+                    {
+                        "type": "Office",
+                        "name": null
+                    }
+                ],
+                "flags": {
+                    "is_contingent": null,
+                    "is_new_construction": null,
+                    "is_pending": null,
+                    "is_foreclosure": null,
+                    "is_deal_available": null,
+                    "is_plan": null,
+                    "is_price_reduced": null,
+                    "is_new_listing": false,
+                    "is_coming_soon": null
+                },
+                "lead_attributes": {
+                    "opcity_lead_attributes": {
+                        "flip_the_market_enabled": false
+                    },
+                    "show_contact_an_agent": true,
+                    "is_tcpa_message_enabled": null,
+                    "is_premium_ldp": false
+                },
+                "virtual_tours": null,
+                "matterport": false,
+                "advertisers": [
+                    {
+                        "fulfillment_id": "100463603",
+                        "name": "Zillow",
+                        "type": "management",
+                        "office": {
+                            "name": "Beach Front Property Management"
+                        },
+                        "builder": null
+                    },
+                    {
+                        "fulfillment_id": "100463603",
+                        "name": "Zillow",
+                        "type": "community",
+                        "office": {
+                            "name": "250 E Acacia St."
+                        },
+                        "builder": null
+                    }
+                ],
+                "source": {
+                    "type": "community",
+                    "plan_id": null,
+                    "listing_id": "m759uhwkncjp",
+                    "community_id": 4655109,
+                    "id": "ZILL",
+                    "name": "Zillow",
+                    "disclaimer": null,
+                    "feed_type": "Syndicator Community",
+                    "agents": null
+                },
+                "pet_policy": {
+                    "cats": true,
+                    "dogs": true,
+                    "dogs_small": false,
+                    "dogs_large": false
+                },
+                "property_history": null,
+                "search_promotions": null,
+                "has_specials": false,
+                "estimate": null,
+                "current_estimates": [
+                    {
+                        "estimate": 8761835,
+                        "isbest_homevalue": true
+                    }
+                ],
+                "details": [
+                    {
+                        "text": [
+                            "Bicycle Storage",
+                            "Laundry",
+                            "Pool",
+                            "Recycling",
+                            "Transportation",
+                            "Garage Detached",
+                            "Gate",
+                            "BBQ/Picnic Area",
+                            "On-Site Management",
+                            "Plank Floors",
+                            "High-speed Internet Ready",
+                            "Efficient Appliances",
+                            "Dogs Allowed",
+                            "Cats Allowed"
+                        ],
+                        "category": "Community Features"
+                    }
+                ]
+            },
+            {
+                "__typename": "SearchHome",
+                "property_id": "2574799336",
+                "listing_id": "2974382205",
+                "status": "for_rent",
+                "primary_photo": {
+                    "href": "https://ar.rdcpix.com/fa2f94db9ab1eadad5dc254a2931c969c-f1557330608s.jpg"
+                },
+                "photo_count": 33,
+                "photos": [
+                    {
+                        "href": "http://ar.rdcpix.com/fa2f94db9ab1eadad5dc254a2931c969c-f1557330608s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/fa2f94db9ab1eadad5dc254a2931c969c-f732180128s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/fa2f94db9ab1eadad5dc254a2931c969c-f1391452048s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/fa2f94db9ab1eadad5dc254a2931c969c-f3634289019s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/fa2f94db9ab1eadad5dc254a2931c969c-f2554030720s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/fa2f94db9ab1eadad5dc254a2931c969c-f2909905001s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/fa2f94db9ab1eadad5dc254a2931c969c-f3325273604s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/fa2f94db9ab1eadad5dc254a2931c969c-f3709129723s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/fa2f94db9ab1eadad5dc254a2931c969c-f1139711932s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/fa2f94db9ab1eadad5dc254a2931c969c-f1508358721s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/fa2f94db9ab1eadad5dc254a2931c969c-f3960224499s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/fa2f94db9ab1eadad5dc254a2931c969c-f3880135259s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/fa2f94db9ab1eadad5dc254a2931c969c-f1058710561s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/fa2f94db9ab1eadad5dc254a2931c969c-f2401411531s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/fa2f94db9ab1eadad5dc254a2931c969c-f808081007s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/fa2f94db9ab1eadad5dc254a2931c969c-f2962532206s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/fa2f94db9ab1eadad5dc254a2931c969c-f3780635395s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/fa2f94db9ab1eadad5dc254a2931c969c-f2323587061s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/fa2f94db9ab1eadad5dc254a2931c969c-f3606610331s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/fa2f94db9ab1eadad5dc254a2931c969c-f1889374274s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/fa2f94db9ab1eadad5dc254a2931c969c-f3462480584s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/fa2f94db9ab1eadad5dc254a2931c969c-f2603949501s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/fa2f94db9ab1eadad5dc254a2931c969c-f4070741885s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/fa2f94db9ab1eadad5dc254a2931c969c-f3690898314s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/fa2f94db9ab1eadad5dc254a2931c969c-f4041933979s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/fa2f94db9ab1eadad5dc254a2931c969c-f620107033s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/fa2f94db9ab1eadad5dc254a2931c969c-f2100025411s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/fa2f94db9ab1eadad5dc254a2931c969c-f4009586948s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/fa2f94db9ab1eadad5dc254a2931c969c-f2561418568s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/fa2f94db9ab1eadad5dc254a2931c969c-f2561010847s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/fa2f94db9ab1eadad5dc254a2931c969c-f360544698s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/fa2f94db9ab1eadad5dc254a2931c969c-f1747009333s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/fa2f94db9ab1eadad5dc254a2931c969c-f467205147s.jpg"
+                    }
+                ],
+                "location": {
+                    "county": {
+                        "name": "San Bernardino"
+                    },
+                    "neighborhoods": null,
+                    "address": {
+                        "line": "4200 Village Dr",
+                        "unit": null,
+                        "street_number": "4200",
+                        "street_name": "Village",
+                        "street_suffix": "Dr",
+                        "city": "Chino Hills",
+                        "postal_code": "91709",
+                        "state_code": "CA",
+                        "state": "California",
+                        "country": "USA",
+                        "coordinate": {
+                            "lat": 33.981871,
+                            "lon": -117.711912
+                        }
+                    },
+                    "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=4200%20Village%20Dr%2C%20Chino%20Hills%2C%20CA%2091709&size=640x480&source=outdoor&signature=BwooCpwDsQ7UWCexHCjZ1DMLFCM="
+                },
+                "list_price": null,
+                "list_date": "2024-10-31T16:24:27.000000Z",
+                "list_price_min": 1975,
+                "list_price_max": 3534,
+                "price_reduced_date": null,
+                "price_reduced_amount": null,
+                "last_sold_date": "2014-08-01",
+                "last_sold_price": 82250000,
+                "href": "https://www.realtor.com/rentals/details/4200-Village-Dr_Chino-Hills_CA_91709_M25747-99336",
+                "products": {
+                    "products": [
+                        "co_broke",
+                        "rentals_cost_per_lead_hybrid"
+                    ]
+                },
+                "description": {
+                    "baths": null,
+                    "baths_min": 1,
+                    "baths_max": 2.5,
+                    "baths_full_calc": null,
+                    "baths_partial_calc": null,
+                    "beds_min": 0,
+                    "beds_max": 3,
+                    "beds": null,
+                    "sqft": null,
+                    "lot_sqft": null,
+                    "type": "apartment",
+                    "sqft_min": 501,
+                    "sqft_max": 1479
+                },
+                "open_houses": null,
+                "branding": [
+                    {
+                        "type": "Office",
+                        "name": null
+                    }
+                ],
+                "flags": {
+                    "is_contingent": null,
+                    "is_new_construction": null,
+                    "is_pending": null,
+                    "is_foreclosure": null,
+                    "is_deal_available": null,
+                    "is_plan": null,
+                    "is_price_reduced": null,
+                    "is_new_listing": false,
+                    "is_coming_soon": null
+                },
+                "lead_attributes": {
+                    "opcity_lead_attributes": {
+                        "flip_the_market_enabled": false
+                    },
+                    "show_contact_an_agent": true,
+                    "is_tcpa_message_enabled": null,
+                    "is_premium_ldp": false
+                },
+                "virtual_tours": [
+                    {
+                        "href": "https://youtu.be/VuHxMRJCltI"
+                    }
+                ],
+                "matterport": true,
+                "advertisers": [
+                    {
+                        "fulfillment_id": "100463603",
+                        "name": "Zillow",
+                        "type": "management",
+                        "office": {
+                            "name": "Decron Properties"
+                        },
+                        "builder": null
+                    },
+                    {
+                        "fulfillment_id": "100463603",
+                        "name": "Zillow",
+                        "type": "community",
+                        "office": {
+                            "name": "Reserve at Chino Hills"
+                        },
+                        "builder": null
+                    }
+                ],
+                "source": {
+                    "type": "community",
+                    "plan_id": null,
+                    "listing_id": "3jfkjt2chqpez",
+                    "community_id": 4615396,
+                    "id": "ZILL",
+                    "name": "Zillow",
+                    "disclaimer": null,
+                    "feed_type": "Syndicator Community",
+                    "agents": null
+                },
+                "pet_policy": {
+                    "cats": true,
+                    "dogs": true,
+                    "dogs_small": false,
+                    "dogs_large": false
+                },
+                "property_history": null,
+                "search_promotions": null,
+                "has_specials": true,
+                "estimate": null,
+                "current_estimates": [],
+                "details": [
+                    {
+                        "text": [
+                            "Club House",
+                            "Fitness Center",
+                            "Free Weights",
+                            "Night Patrol",
+                            "Package Receiving",
+                            "Play Ground",
+                            "Pool",
+                            "Hottub Spa",
+                            "Off Street",
+                            "Picnic/bbq Area",
+                            "On-Site Management",
+                            "On-Site Maintenance",
+                            "Dogs Allowed",
+                            "Cats Allowed"
+                        ],
+                        "category": "Community Features"
+                    }
+                ]
+            },
+            {
+                "__typename": "SearchHome",
+                "property_id": "1773862854",
+                "listing_id": "2977169446",
+                "status": "for_rent",
+                "primary_photo": {
+                    "href": "https://ar.rdcpix.com/e2a97d360d5b8e2d8922645c3ed3137cc-f2508073282s.jpg"
+                },
+                "photo_count": 17,
+                "photos": [
+                    {
+                        "href": "http://ar.rdcpix.com/e2a97d360d5b8e2d8922645c3ed3137cc-f2508073282s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/e2a97d360d5b8e2d8922645c3ed3137cc-f493576614s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/e2a97d360d5b8e2d8922645c3ed3137cc-f784544017s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/e2a97d360d5b8e2d8922645c3ed3137cc-f1869831127s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/e2a97d360d5b8e2d8922645c3ed3137cc-f964652953s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/e2a97d360d5b8e2d8922645c3ed3137cc-f1083735789s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/e2a97d360d5b8e2d8922645c3ed3137cc-f947314919s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/e2a97d360d5b8e2d8922645c3ed3137cc-f3149508616s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/e2a97d360d5b8e2d8922645c3ed3137cc-f75631246s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/e2a97d360d5b8e2d8922645c3ed3137cc-f3911562936s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/e2a97d360d5b8e2d8922645c3ed3137cc-f3557139527s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/e2a97d360d5b8e2d8922645c3ed3137cc-f3073086900s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/e2a97d360d5b8e2d8922645c3ed3137cc-f1918182689s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/e2a97d360d5b8e2d8922645c3ed3137cc-f340732556s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/e2a97d360d5b8e2d8922645c3ed3137cc-f1690340098s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/e2a97d360d5b8e2d8922645c3ed3137cc-f454792384s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/e2a97d360d5b8e2d8922645c3ed3137cc-f2957748365s.jpg"
+                    }
+                ],
+                "location": {
+                    "county": {
+                        "name": "Los Angeles"
+                    },
+                    "neighborhoods": [
+                        {
+                            "name": "Southeast LA",
+                            "city": "Los Angeles",
+                            "state_code": "CA",
+                            "level": "macro_neighborhood"
+                        }
+                    ],
+                    "address": {
+                        "line": "14119 Mulberry Dr",
+                        "unit": null,
+                        "street_number": "14119",
+                        "street_name": "Mulberry",
+                        "street_suffix": "Dr",
+                        "city": "Whittier",
+                        "postal_code": "90605",
+                        "state_code": "CA",
+                        "state": "California",
+                        "country": "USA",
+                        "coordinate": {
+                            "lat": 33.944414,
+                            "lon": -118.028647
+                        }
+                    },
+                    "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=14119%20Mulberry%20Dr%2C%20Whittier%2C%20CA%2090605&size=640x480&source=outdoor&signature=Y4HzQrfjREuCSfh9GKaKgd_EnTU="
+                },
+                "list_price": null,
+                "list_date": "2025-01-03T15:16:41.000000Z",
+                "list_price_min": 1795,
+                "list_price_max": 2250,
+                "price_reduced_date": null,
+                "price_reduced_amount": null,
+                "last_sold_date": "2020-11-13",
+                "last_sold_price": 9495000,
+                "href": "https://www.realtor.com/rentals/details/14119-Mulberry-Dr_Whittier_CA_90605_M17738-62854",
+                "products": {
+                    "products": [
+                        "co_broke",
+                        "rentals_cost_per_lead_hybrid"
+                    ]
+                },
+                "description": {
+                    "baths": null,
+                    "baths_min": 1,
+                    "baths_max": 1,
+                    "baths_full_calc": null,
+                    "baths_partial_calc": null,
+                    "beds_min": 1,
+                    "beds_max": 2,
+                    "beds": null,
+                    "sqft": null,
+                    "lot_sqft": null,
+                    "type": "apartment",
+                    "sqft_min": 500,
+                    "sqft_max": 900
+                },
+                "open_houses": null,
+                "branding": [
+                    {
+                        "type": "Office",
+                        "name": null
+                    }
+                ],
+                "flags": {
+                    "is_contingent": null,
+                    "is_new_construction": null,
+                    "is_pending": null,
+                    "is_foreclosure": null,
+                    "is_deal_available": null,
+                    "is_plan": null,
+                    "is_price_reduced": null,
+                    "is_new_listing": false,
+                    "is_coming_soon": null
+                },
+                "lead_attributes": {
+                    "opcity_lead_attributes": {
+                        "flip_the_market_enabled": false
+                    },
+                    "show_contact_an_agent": true,
+                    "is_tcpa_message_enabled": null,
+                    "is_premium_ldp": false
+                },
+                "virtual_tours": null,
+                "matterport": false,
+                "advertisers": [
+                    {
+                        "fulfillment_id": "100463603",
+                        "name": "Zillow",
+                        "type": "management",
+                        "office": {
+                            "name": "Beach Front Property Management"
+                        },
+                        "builder": null
+                    },
+                    {
+                        "fulfillment_id": "100463603",
+                        "name": "Zillow",
+                        "type": "community",
+                        "office": {
+                            "name": "Kona Palms"
+                        },
+                        "builder": null
+                    }
+                ],
+                "source": {
+                    "type": "community",
+                    "plan_id": null,
+                    "listing_id": "bq0ejc8gv5et",
+                    "community_id": 4684095,
+                    "id": "ZILL",
+                    "name": "Zillow",
+                    "disclaimer": null,
+                    "feed_type": "Syndicator Community",
+                    "agents": null
+                },
+                "pet_policy": {
+                    "cats": true,
+                    "dogs": true,
+                    "dogs_small": false,
+                    "dogs_large": false
+                },
+                "property_history": null,
+                "search_promotions": null,
+                "has_specials": false,
+                "estimate": null,
+                "current_estimates": [
+                    {
+                        "estimate": 12330387,
+                        "isbest_homevalue": true
+                    }
+                ],
+                "details": [
+                    {
+                        "text": [
+                            "Availability 24 Hours",
+                            "Laundry",
+                            "Garage Detached",
+                            "Gate",
+                            "BBQ/Picnic Area",
+                            "On-Site Management",
+                            "Dogs Allowed",
+                            "Cats Allowed"
+                        ],
+                        "category": "Community Features"
+                    }
+                ]
+            },
+            {
+                "__typename": "SearchHome",
+                "property_id": "1918529243",
+                "listing_id": "2975721468",
+                "status": "for_rent",
+                "primary_photo": {
+                    "href": "https://ar.rdcpix.com/523c9a3f8d885fecc644d8a6717508eac-f2843007304s.jpg"
+                },
+                "photo_count": 17,
+                "photos": [
+                    {
+                        "href": "http://ar.rdcpix.com/523c9a3f8d885fecc644d8a6717508eac-f2843007304s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/523c9a3f8d885fecc644d8a6717508eac-f454702352s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/523c9a3f8d885fecc644d8a6717508eac-f3035978855s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/523c9a3f8d885fecc644d8a6717508eac-f2158864758s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/523c9a3f8d885fecc644d8a6717508eac-f3244355001s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/523c9a3f8d885fecc644d8a6717508eac-f2570217215s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/523c9a3f8d885fecc644d8a6717508eac-f2922512725s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/523c9a3f8d885fecc644d8a6717508eac-f2422432962s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/523c9a3f8d885fecc644d8a6717508eac-f395021447s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/523c9a3f8d885fecc644d8a6717508eac-f3328427557s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/523c9a3f8d885fecc644d8a6717508eac-f1773079377s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/523c9a3f8d885fecc644d8a6717508eac-f801506298s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/523c9a3f8d885fecc644d8a6717508eac-f2029605489s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/523c9a3f8d885fecc644d8a6717508eac-f4056973533s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/523c9a3f8d885fecc644d8a6717508eac-f3440403555s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/523c9a3f8d885fecc644d8a6717508eac-f2111976306s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/523c9a3f8d885fecc644d8a6717508eac-f412015071s.jpg"
+                    }
+                ],
+                "location": {
+                    "county": {
+                        "name": "Los Angeles"
+                    },
+                    "neighborhoods": null,
+                    "address": {
+                        "line": "1940 Fullerton Rd",
+                        "unit": null,
+                        "street_number": "1940",
+                        "street_name": "Fullerton",
+                        "street_suffix": "Rd",
+                        "city": "Rowland Heights",
+                        "postal_code": "91748",
+                        "state_code": "CA",
+                        "state": "California",
+                        "country": "USA",
+                        "coordinate": {
+                            "lat": 33.984212,
+                            "lon": -117.906546
+                        }
+                    },
+                    "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=1940%20Fullerton%20Rd%2C%20Rowland%20Heights%2C%20CA%2091748&size=640x480&source=outdoor&signature=sMwF4twHiuW8n6zL0rC35Vq4iT4="
+                },
+                "list_price": null,
+                "list_date": "2024-12-03T00:23:20.000000Z",
+                "list_price_min": 2195,
+                "list_price_max": 2275,
+                "price_reduced_date": null,
+                "price_reduced_amount": null,
+                "last_sold_date": "2017-08-16",
+                "last_sold_price": 29250000,
+                "href": "https://www.realtor.com/rentals/details/1940-Fullerton-Rd_La-Puente_CA_91748_M19185-29243",
+                "products": {
+                    "products": [
+                        "co_broke",
+                        "rentals_cost_per_lead_hybrid"
+                    ]
+                },
+                "description": {
+                    "baths": null,
+                    "baths_min": 1,
+                    "baths_max": 2,
+                    "baths_full_calc": null,
+                    "baths_partial_calc": null,
+                    "beds_min": 1,
+                    "beds_max": 2,
+                    "beds": null,
+                    "sqft": null,
+                    "lot_sqft": null,
+                    "type": "apartment",
+                    "sqft_min": 700,
+                    "sqft_max": 850
+                },
+                "open_houses": null,
+                "branding": [
+                    {
+                        "type": "Office",
+                        "name": null
+                    }
+                ],
+                "flags": {
+                    "is_contingent": null,
+                    "is_new_construction": null,
+                    "is_pending": null,
+                    "is_foreclosure": null,
+                    "is_deal_available": null,
+                    "is_plan": null,
+                    "is_price_reduced": null,
+                    "is_new_listing": false,
+                    "is_coming_soon": null
+                },
+                "lead_attributes": {
+                    "opcity_lead_attributes": {
+                        "flip_the_market_enabled": false
+                    },
+                    "show_contact_an_agent": true,
+                    "is_tcpa_message_enabled": null,
+                    "is_premium_ldp": false
+                },
+                "virtual_tours": null,
+                "matterport": false,
+                "advertisers": [
+                    {
+                        "fulfillment_id": "100463603",
+                        "name": "Zillow",
+                        "type": "management",
+                        "office": {
+                            "name": "CONAM"
+                        },
+                        "builder": null
+                    },
+                    {
+                        "fulfillment_id": "100463603",
+                        "name": "Zillow",
+                        "type": "community",
+                        "office": {
+                            "name": "NOVO Apartments"
+                        },
+                        "builder": null
+                    }
+                ],
+                "source": {
+                    "type": "community",
+                    "plan_id": null,
+                    "listing_id": "2wd26td9pn4c2",
+                    "community_id": 4644336,
+                    "id": "ZILL",
+                    "name": "Zillow",
+                    "disclaimer": null,
+                    "feed_type": "Syndicator Community",
+                    "agents": null
+                },
+                "pet_policy": {
+                    "cats": true,
+                    "dogs": true,
+                    "dogs_small": false,
+                    "dogs_large": false
+                },
+                "property_history": null,
+                "search_promotions": null,
+                "has_specials": false,
+                "estimate": null,
+                "current_estimates": [
+                    {
+                        "estimate": 41822464,
+                        "isbest_homevalue": true
+                    }
+                ],
+                "details": [
+                    {
+                        "text": [
+                            "Fitness Center",
+                            "Laundry",
+                            "Pool",
+                            "Spa",
+                            "Gate",
+                            "Dogs Allowed",
+                            "Cats Allowed"
+                        ],
+                        "category": "Community Features"
+                    }
+                ]
+            },
+            {
+                "__typename": "SearchHome",
+                "property_id": "2850960389",
+                "listing_id": "2966799118",
+                "status": "for_rent",
+                "primary_photo": {
+                    "href": "https://ar.rdcpix.com/7e559fdfeb35539a6eb69709060b0925c-f2102367425s.jpg"
+                },
+                "photo_count": 10,
+                "photos": [
+                    {
+                        "href": "http://ar.rdcpix.com/7e559fdfeb35539a6eb69709060b0925c-f2102367425s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/7e559fdfeb35539a6eb69709060b0925c-f3606922494s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/7e559fdfeb35539a6eb69709060b0925c-f2272365513s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/7e559fdfeb35539a6eb69709060b0925c-f1406704184s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/7e559fdfeb35539a6eb69709060b0925c-f1556486649s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/7e559fdfeb35539a6eb69709060b0925c-f234827922s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/7e559fdfeb35539a6eb69709060b0925c-f859941733s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/7e559fdfeb35539a6eb69709060b0925c-f3338498556s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/7e559fdfeb35539a6eb69709060b0925c-f3776329097s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/7e559fdfeb35539a6eb69709060b0925c-f3591151954s.jpg"
+                    }
+                ],
+                "location": {
+                    "county": {
+                        "name": "Orange"
+                    },
+                    "neighborhoods": null,
+                    "address": {
+                        "line": "266 Backs Ln",
+                        "unit": null,
+                        "street_number": "266",
+                        "street_name": "Backs",
+                        "street_suffix": "Ln",
+                        "city": "Placentia",
+                        "postal_code": "92870",
+                        "state_code": "CA",
+                        "state": "California",
+                        "country": "USA",
+                        "coordinate": {
+                            "lat": 33.869256,
+                            "lon": -117.86697
+                        }
+                    },
+                    "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=266%20Backs%20Ln%2C%20Placentia%2C%20CA%2092870&size=640x480&source=outdoor&signature=gF8v23GWwZVdy4b6Obi0Ees3jG8="
+                },
+                "list_price": null,
+                "list_date": "2024-04-26T18:46:28.000000Z",
+                "list_price_min": 2600,
+                "list_price_max": 4075,
+                "price_reduced_date": null,
+                "price_reduced_amount": null,
+                "last_sold_date": null,
+                "last_sold_price": null,
+                "href": "https://www.realtor.com/rentals/details/266-Backs-Ln_Placentia_CA_92870_M28509-60389",
+                "products": {
+                    "products": [
+                        "co_broke",
+                        "rentals_cost_per_lead_hybrid"
+                    ]
+                },
+                "description": {
+                    "baths": null,
+                    "baths_min": 2,
+                    "baths_max": 2.5,
+                    "baths_full_calc": null,
+                    "baths_partial_calc": null,
+                    "beds_min": 2,
+                    "beds_max": 3,
+                    "beds": null,
+                    "sqft": null,
+                    "lot_sqft": null,
+                    "type": "apartment",
+                    "sqft_min": 950,
+                    "sqft_max": 1492
+                },
+                "open_houses": null,
+                "branding": [
+                    {
+                        "type": "Office",
+                        "name": null
+                    }
+                ],
+                "flags": {
+                    "is_contingent": null,
+                    "is_new_construction": null,
+                    "is_pending": null,
+                    "is_foreclosure": null,
+                    "is_deal_available": null,
+                    "is_plan": null,
+                    "is_price_reduced": null,
+                    "is_new_listing": false,
+                    "is_coming_soon": null
+                },
+                "lead_attributes": {
+                    "opcity_lead_attributes": {
+                        "flip_the_market_enabled": false
+                    },
+                    "show_contact_an_agent": true,
+                    "is_tcpa_message_enabled": null,
+                    "is_premium_ldp": false
+                },
+                "virtual_tours": null,
+                "matterport": false,
+                "advertisers": [
+                    {
+                        "fulfillment_id": "100463603",
+                        "name": "Zillow",
+                        "type": "management",
+                        "office": {
+                            "name": "Western National Property Management"
+                        },
+                        "builder": null
+                    },
+                    {
+                        "fulfillment_id": "100463603",
+                        "name": "Zillow",
+                        "type": "community",
+                        "office": {
+                            "name": "Carlyle Square Apartment Homes"
+                        },
+                        "builder": null
+                    }
+                ],
+                "source": {
+                    "type": "community",
+                    "plan_id": null,
+                    "listing_id": "1cvsr95g95y93",
+                    "community_id": 4347282,
+                    "id": "ZILL",
+                    "name": "Zillow",
+                    "disclaimer": null,
+                    "feed_type": "Syndicator Community",
+                    "agents": null
+                },
+                "pet_policy": {
+                    "cats": true,
+                    "dogs": true,
+                    "dogs_small": false,
+                    "dogs_large": false
+                },
+                "property_history": null,
+                "search_promotions": null,
+                "has_specials": false,
+                "estimate": null,
+                "current_estimates": [
+                    {
+                        "estimate": 2277000,
+                        "isbest_homevalue": false
+                    }
+                ],
+                "details": [
+                    {
+                        "text": [
+                            "Closets In Select Apartment Homes",
+                            "Parking",
+                            "On-Site Management",
+                            "On-Site Maintenance",
+                            "Dogs Allowed",
+                            "Cats Allowed"
+                        ],
+                        "category": "Community Features"
+                    }
+                ]
+            },
+            {
+                "__typename": "SearchHome",
+                "property_id": "9780814217",
+                "listing_id": "2977166953",
+                "status": "for_rent",
+                "primary_photo": {
+                    "href": "https://ar.rdcpix.com/6bafd8acb9c1085e8fff74b49fc2305dc-f1472151267s.jpg"
+                },
+                "photo_count": 9,
+                "photos": [
+                    {
+                        "href": "http://ar.rdcpix.com/6bafd8acb9c1085e8fff74b49fc2305dc-f1472151267s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/6bafd8acb9c1085e8fff74b49fc2305dc-f1577189729s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/6bafd8acb9c1085e8fff74b49fc2305dc-f1936800990s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/6bafd8acb9c1085e8fff74b49fc2305dc-f1857147809s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/6bafd8acb9c1085e8fff74b49fc2305dc-f1190427105s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/6bafd8acb9c1085e8fff74b49fc2305dc-f1733605805s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/6bafd8acb9c1085e8fff74b49fc2305dc-f3109951275s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/6bafd8acb9c1085e8fff74b49fc2305dc-f3309858236s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/6bafd8acb9c1085e8fff74b49fc2305dc-f3893544014s.jpg"
+                    }
+                ],
+                "location": {
+                    "county": {
+                        "name": "Los Angeles"
+                    },
+                    "neighborhoods": [
+                        {
+                            "name": "East Penn",
+                            "city": "Whittier",
+                            "state_code": "CA",
+                            "level": "neighborhood"
+                        }
+                    ],
+                    "address": {
+                        "line": "13625 Mar Vista St",
+                        "unit": null,
+                        "street_number": "13625",
+                        "street_name": "Mar Vista",
+                        "street_suffix": "St",
+                        "city": "Whittier",
+                        "postal_code": "90602",
+                        "state_code": "CA",
+                        "state": "California",
+                        "country": "USA",
+                        "coordinate": {
+                            "lat": 33.97374,
+                            "lon": -118.029961
+                        }
+                    },
+                    "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=13625%20Mar%20Vista%20St%2C%20Whittier%2C%20CA%2090602&size=640x480&source=outdoor&signature=5IbAvj5keMhd7VxlJeMDaBi4QrU="
+                },
+                "list_price": null,
+                "list_date": "2025-01-11T00:07:37.000000Z",
+                "list_price_min": 2095,
+                "list_price_max": 2095,
+                "price_reduced_date": null,
+                "price_reduced_amount": null,
+                "last_sold_date": null,
+                "last_sold_price": null,
+                "href": "https://www.realtor.com/rentals/details/13625-Mar-Vista-St_Whittier_CA_90602_M97808-14217",
+                "products": {
+                    "products": [
+                        "co_broke",
+                        "rentals_cost_per_lead_hybrid"
+                    ]
+                },
+                "description": {
+                    "baths": null,
+                    "baths_min": 1,
+                    "baths_max": 1,
+                    "baths_full_calc": null,
+                    "baths_partial_calc": null,
+                    "beds_min": 1,
+                    "beds_max": 1,
+                    "beds": null,
+                    "sqft": null,
+                    "lot_sqft": null,
+                    "type": "apartment",
+                    "sqft_min": 600,
+                    "sqft_max": 600
+                },
+                "open_houses": null,
+                "branding": [
+                    {
+                        "type": "Office",
+                        "name": null
+                    }
+                ],
+                "flags": {
+                    "is_contingent": null,
+                    "is_new_construction": null,
+                    "is_pending": null,
+                    "is_foreclosure": null,
+                    "is_deal_available": null,
+                    "is_plan": null,
+                    "is_price_reduced": null,
+                    "is_new_listing": false,
+                    "is_coming_soon": null
+                },
+                "lead_attributes": {
+                    "opcity_lead_attributes": {
+                        "flip_the_market_enabled": false
+                    },
+                    "show_contact_an_agent": true,
+                    "is_tcpa_message_enabled": null,
+                    "is_premium_ldp": false
+                },
+                "virtual_tours": null,
+                "matterport": false,
+                "advertisers": [
+                    {
+                        "fulfillment_id": "100463603",
+                        "name": "Zillow",
+                        "type": "management",
+                        "office": {
+                            "name": "L'Abri Management"
+                        },
+                        "builder": null
+                    },
+                    {
+                        "fulfillment_id": "100463603",
+                        "name": "Zillow",
+                        "type": "community",
+                        "office": {
+                            "name": "Stonehill Apartments"
+                        },
+                        "builder": null
+                    }
+                ],
+                "source": {
+                    "type": "community",
+                    "plan_id": null,
+                    "listing_id": "1dn84rdybgst",
+                    "community_id": 4693149,
+                    "id": "ZILL",
+                    "name": "Zillow",
+                    "disclaimer": null,
+                    "feed_type": "Syndicator Community",
+                    "agents": null
+                },
+                "pet_policy": {
+                    "cats": false,
+                    "dogs": false,
+                    "dogs_small": false,
+                    "dogs_large": false
+                },
+                "property_history": null,
+                "search_promotions": null,
+                "has_specials": true,
+                "estimate": null,
+                "current_estimates": [],
+                "details": [
+                    {
+                        "text": [
+                            "Jogging Walking Trails",
+                            "Laundry",
+                            "Garage Attached",
+                            "Garage Detached",
+                            "Gate",
+                            "Intercom system",
+                            "Lawn",
+                            "Off Street",
+                            "Heating: Gas",
+                            "Heater",
+                            "Recessed lighting",
+                            "Online Rent Payment",
+                            "On-Site Management",
+                            "Flooring: Laminate",
+                            "Online Maintenance Portal"
+                        ],
+                        "category": "Community Features"
+                    }
+                ]
+            },
+            {
+                "__typename": "SearchHome",
+                "property_id": "2460301514",
+                "listing_id": "2966871132",
+                "status": "for_rent",
+                "primary_photo": {
+                    "href": "https://ar.rdcpix.com/79eebcd6213cb63a6712a32a2030b83ac-f2928204756s.jpg"
+                },
+                "photo_count": 43,
+                "photos": [
+                    {
+                        "href": "http://ar.rdcpix.com/79eebcd6213cb63a6712a32a2030b83ac-f2928204756s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/79eebcd6213cb63a6712a32a2030b83ac-f3796841397s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/79eebcd6213cb63a6712a32a2030b83ac-f2483012942s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/79eebcd6213cb63a6712a32a2030b83ac-f1584455447s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/79eebcd6213cb63a6712a32a2030b83ac-f2855342802s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/79eebcd6213cb63a6712a32a2030b83ac-f2671652599s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/79eebcd6213cb63a6712a32a2030b83ac-f3964992113s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/79eebcd6213cb63a6712a32a2030b83ac-f1479455801s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/79eebcd6213cb63a6712a32a2030b83ac-f3135443612s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/79eebcd6213cb63a6712a32a2030b83ac-f82650646s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/79eebcd6213cb63a6712a32a2030b83ac-f3420370472s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/79eebcd6213cb63a6712a32a2030b83ac-f690009035s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/79eebcd6213cb63a6712a32a2030b83ac-f2816756416s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/79eebcd6213cb63a6712a32a2030b83ac-f699242729s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/79eebcd6213cb63a6712a32a2030b83ac-f528326467s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/79eebcd6213cb63a6712a32a2030b83ac-f2396199117s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/79eebcd6213cb63a6712a32a2030b83ac-f3869438002s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/79eebcd6213cb63a6712a32a2030b83ac-f2868002703s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/79eebcd6213cb63a6712a32a2030b83ac-f115686263s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/79eebcd6213cb63a6712a32a2030b83ac-f913947577s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/79eebcd6213cb63a6712a32a2030b83ac-f518881027s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/79eebcd6213cb63a6712a32a2030b83ac-f2935241667s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/79eebcd6213cb63a6712a32a2030b83ac-f1042745888s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/79eebcd6213cb63a6712a32a2030b83ac-f2273842761s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/79eebcd6213cb63a6712a32a2030b83ac-f3576477736s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/79eebcd6213cb63a6712a32a2030b83ac-f2997371749s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/79eebcd6213cb63a6712a32a2030b83ac-f3156282066s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/79eebcd6213cb63a6712a32a2030b83ac-f3683589766s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/79eebcd6213cb63a6712a32a2030b83ac-f1005248084s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/79eebcd6213cb63a6712a32a2030b83ac-f3584375415s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/79eebcd6213cb63a6712a32a2030b83ac-f3866775059s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/79eebcd6213cb63a6712a32a2030b83ac-f3753641109s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/79eebcd6213cb63a6712a32a2030b83ac-f1819679849s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/79eebcd6213cb63a6712a32a2030b83ac-f3065237865s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/79eebcd6213cb63a6712a32a2030b83ac-f2166701734s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/79eebcd6213cb63a6712a32a2030b83ac-f3586605845s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/79eebcd6213cb63a6712a32a2030b83ac-f2072160820s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/79eebcd6213cb63a6712a32a2030b83ac-f3694415229s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/79eebcd6213cb63a6712a32a2030b83ac-f2493119138s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/79eebcd6213cb63a6712a32a2030b83ac-f4219145130s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/79eebcd6213cb63a6712a32a2030b83ac-f245167081s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/79eebcd6213cb63a6712a32a2030b83ac-f3493813116s.jpg"
+                    },
+                    {
+                        "href": "http://ar.rdcpix.com/79eebcd6213cb63a6712a32a2030b83ac-f2746660031s.jpg"
+                    }
+                ],
+                "location": {
+                    "county": {
+                        "name": "Orange"
+                    },
+                    "neighborhoods": null,
+                    "address": {
+                        "line": "2600 W LA Habra Blvd",
+                        "unit": null,
+                        "street_number": "2600",
+                        "street_name": "LA Habra",
+                        "street_suffix": "Blvd",
+                        "city": "La Habra",
+                        "postal_code": "90631",
+                        "state_code": "CA",
+                        "state": "California",
+                        "country": "USA",
+                        "coordinate": {
+                            "lat": 33.930701,
+                            "lon": -117.976151
+                        }
+                    },
+                    "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=2600%20W%20LA%20Habra%20Blvd%2C%20La%20Habra%2C%20CA%2090631&size=640x480&source=outdoor&signature=_fyA33ds7XeCNKSdqGZvfPcqscs="
+                },
+                "list_price": null,
+                "list_date": "2024-05-02T00:22:02.000000Z",
+                "list_price_min": 1900,
+                "list_price_max": 2200,
+                "price_reduced_date": null,
+                "price_reduced_amount": null,
+                "last_sold_date": null,
+                "last_sold_price": null,
+                "href": "https://www.realtor.com/rentals/details/2600-W-la-Habra-Blvd_La-Habra_CA_90631_M24603-01514",
+                "products": {
+                    "products": [
+                        "co_broke",
+                        "rentals_cost_per_lead_hybrid"
+                    ]
+                },
+                "description": {
+                    "baths": null,
+                    "baths_min": 1,
+                    "baths_max": 1,
+                    "baths_full_calc": null,
+                    "baths_partial_calc": null,
+                    "beds_min": 0,
+                    "beds_max": 1,
+                    "beds": null,
+                    "sqft": null,
+                    "lot_sqft": null,
+                    "type": "apartment",
+                    "sqft_min": 475,
+                    "sqft_max": 810
+                },
+                "open_houses": null,
+                "branding": [
+                    {
+                        "type": "Office",
+                        "name": null
+                    }
+                ],
+                "flags": {
+                    "is_contingent": null,
+                    "is_new_construction": null,
+                    "is_pending": null,
+                    "is_foreclosure": null,
+                    "is_deal_available": null,
+                    "is_plan": null,
+                    "is_price_reduced": null,
+                    "is_new_listing": false,
+                    "is_coming_soon": null
+                },
+                "lead_attributes": {
+                    "opcity_lead_attributes": {
+                        "flip_the_market_enabled": false
+                    },
+                    "show_contact_an_agent": true,
+                    "is_tcpa_message_enabled": null,
+                    "is_premium_ldp": false
+                },
+                "virtual_tours": null,
+                "matterport": false,
+                "advertisers": [
+                    {
+                        "fulfillment_id": "100463603",
+                        "name": "Zillow",
+                        "type": "management",
+                        "office": {
+                            "name": "L'Abri Management"
+                        },
+                        "builder": null
+                    },
+                    {
+                        "fulfillment_id": "100463603",
+                        "name": "Zillow",
+                        "type": "community",
+                        "office": {
+                            "name": "The Springs Apartments"
+                        },
+                        "builder": null
+                    }
+                ],
+                "source": {
+                    "type": "community",
+                    "plan_id": null,
+                    "listing_id": "1tk9ch2ap9uk3",
+                    "community_id": 4383019,
+                    "id": "ZILL",
+                    "name": "Zillow",
+                    "disclaimer": null,
+                    "feed_type": "Syndicator Community",
+                    "agents": null
+                },
+                "pet_policy": {
+                    "cats": false,
+                    "dogs": false,
+                    "dogs_small": false,
+                    "dogs_large": false
+                },
+                "property_history": null,
+                "search_promotions": null,
+                "has_specials": true,
+                "estimate": null,
+                "current_estimates": [],
+                "details": [
+                    {
+                        "text": [
+                            "Fitness Center",
+                            "Laundry",
+                            "Pool",
+                            "Barbecue Area",
+                            "Gate",
+                            "Heating: Gas",
+                            "Water Feature",
+                            "Online Rent Payment",
+                            "Spanish Speaking Staff",
+                            "On-Site Management",
+                            "Flooring: Laminate",
+                            "High-speed Internet Ready",
+                            "Online Maintenance Portal"
+                        ],
+                        "category": "Community Features"
+                    }
+                ]
+            }
+        ]
+    },
+    "meta": {
+        "currentPage": 1,
+        "limit": 20,
+        "totalRecords": 537,
+        "totalPage": 27
+    },
+    "status": true,
+    "message": "Successful"
+}
