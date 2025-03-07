@@ -32,13 +32,15 @@ const RAPID_API_HOST = process.env.RAPID_API_HOST;
 console.log('API Key:', process.env.RAPID_API_KEY);
 console.log('API Host:', process.env.RAPID_API_HOST);
 
-// Update CORS configuration
-app.use(cors({
+// Update CORS configuration for production
+const corsOptions = {
   origin: process.env.FRONTEND_URL || 'http://localhost:3000',
   credentials: true,
   methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
   allowedHeaders: ['Content-Type', 'Authorization']
-}));
+};
+
+app.use(cors(corsOptions));
 
 // Move this before your routes
 app.use(express.json());
@@ -344,28 +346,35 @@ app.post('/api/favorites', authenticateToken, async (req: any, res: any) => {
 
     const user_id = req.user.id;
 
-    // First check if this apartment already exists
-    const existingApartment = await pool.query(
-      'SELECT id FROM apartments WHERE title = $1 AND location = $2',
-      [
-        apartment.location?.address?.line || '',
-        `${apartment.location?.address?.city || ''}, ${apartment.location?.address?.state_code || ''}`
-      ]
+    // First ensure user exists in public.users
+    const userExists = await pool.query(
+      'SELECT id FROM public.users WHERE id = $1',
+      [user_id]
     );
 
-    let apartment_id;
-    
-    if (existingApartment.rows.length > 0) {
-      // Use existing apartment
-      apartment_id = existingApartment.rows[0].id;
-    } else {
+
+
+    // Rest of your existing apartment logic
+    const apartment_id = apartment.property_id || apartment.id;
+
+    if (!apartment_id) {
+      return res.status(400).json({ error: 'No apartment ID provided' });
+    }
+
+    // Check if apartment exists
+    const existingApartment = await pool.query(
+      'SELECT id FROM apartments WHERE id = $1',
+      [apartment_id]
+    );
+
+    if (existingApartment.rows.length === 0) {
       // Create new apartment
-      const apartmentResult = await pool.query(
+      await pool.query(
         `INSERT INTO apartments 
-         (title, price, location, bedrooms, bathrooms, square_feet, image_url) 
-         VALUES ($1, $2, $3, $4, $5, $6, $7)
-         RETURNING id`,
+         (id, title, price, location, bedrooms, bathrooms, square_feet, image_url) 
+         VALUES ($1, $2, $3, $4, $5, $6, $7, $8)`,
         [
+          apartment_id,
           apartment.location?.address?.line || '',
           apartment.list_price_min || 0,
           `${apartment.location?.address?.city || ''}, ${apartment.location?.address?.state_code || ''}`,
@@ -375,7 +384,6 @@ app.post('/api/favorites', authenticateToken, async (req: any, res: any) => {
           apartment.primary_photo?.href || ''
         ]
       );
-      apartment_id = apartmentResult.rows[0].id;
     }
 
     // Check if favorite already exists
@@ -819,12 +827,18 @@ app.post('/api/applications', authenticateToken, async (req: any, res: any) => {
 
     // Create application record
     console.log('Creating application record...');
+    const documentIds = documents.rows.map((doc: any) => doc.id);
     const application = await pool.query(
       `INSERT INTO apartment_applications 
        (user_id, apartment_id, documents, property_manager_email, status)
-       VALUES ($1, $2::bigint, $3, $4, 'pending')
+       VALUES ($1, $2::bigint, $3::jsonb, $4, 'pending')
        RETURNING *`,
-      [userId, apartmentId, documents.rows.map((d: any) => d.id), propertyManagerEmail]
+      [
+        userId, 
+        apartmentId, 
+        JSON.stringify(documentIds), // Convert array to JSONB string
+        propertyManagerEmail
+      ]
     );
     console.log('Application created:', application.rows[0]);
 
@@ -863,11 +877,13 @@ app.get('/api/applications/check/:apartmentId', authenticateToken, async (req: a
   }
 });
 
-// Instead of directly calling app.listen, export the app
+// Update the server listen code at the bottom
+const PORT = process.env.PORT || 3001;
+
 if (process.env.NODE_ENV !== 'test') {
-app.listen(port, () => {
-  console.log(`Server running on port ${port}`);
-});
+  app.listen(PORT, () => {
+    console.log(`Server running on port ${PORT} in ${process.env.NODE_ENV || 'development'} mode`);
+  });
 }
 
-module.exports = app;
+export default app;

@@ -1,9 +1,9 @@
 {
     "compilerOptions": {
-      "target": "es2017",
+      "target": "es6",
       "module": "commonjs",    // Different from frontend - Node.js uses CommonJS
       "outDir": "./dist",     // Compiled files will go here
-      "rootDir": ".",
+      "rootDir": "./",
       "strict": true,
       "esModuleInterop": true,
       "skipLibCheck": true,
@@ -13,6 +13,6 @@
       "isolatedModules": true,
       "allowJs": true
     },
-    "include": ["*.ts"],
-    "exclude": ["node_modules"]
+    "include": ["./**/*"],
+    "exclude": ["node_modules", "dist"]
   }

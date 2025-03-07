@@ -1,30 +1,22 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useCallback } from 'react';
 import { useRouter } from 'next/navigation';
 import { ProfileForm } from '../components/ProfileForm';
 import { UserProfile } from '../types/profile';
 import { motion } from 'framer-motion';
-import { User, Phone, Calendar, MapPin, Briefcase, DollarSign, Home, Loader2, Upload, CheckCircle } from 'lucide-react';
+import { User, Phone, Calendar, MapPin, Briefcase, DollarSign, Home, Upload, LucideIcon} from 'lucide-react';
 import Link from 'next/link';
 
-interface DocumentStatus {
-  hasDocuments: boolean;
-  isVerified: boolean;
-}
 
 export default function ProfilePage() {
   const [profile, setProfile] = useState<UserProfile | null>(null);
   const [isEditing, setIsEditing] = useState(false);
   const [loading, setLoading] = useState(true);
-  const [error, setError] = useState<string | null>(null);
+
   const router = useRouter();
 
-  useEffect(() => {
-    fetchProfile();
-  }, []);
-
-  const fetchProfile = async () => {
+  const fetchProfile = useCallback(async () => {
     try {
       console.log('Fetching profile...');
       const token = localStorage.getItem('token');
@@ -47,15 +39,19 @@ export default function ProfilePage() {
         setProfile(data);
       } else {
         console.error('Failed to fetch profile:', data.error);
-        setError(data.error);
+        
       }
     } catch (err) {
       console.error('Error fetching profile:', err);
-      setError('Failed to load profile');
+     
     } finally {
       setLoading(false);
     }
-  };
+  }, [router]);
+
+  useEffect(() => {
+    fetchProfile();
+  }, [fetchProfile]);
 
   if (loading) {
     return (
@@ -131,12 +127,12 @@ export default function ProfilePage() {
               <ProfileItem 
                 icon={DollarSign} 
                 label="Monthly Income" 
-                value={profile.monthly_income ? parseFloat(profile.monthly_income) : null} 
+                value={profile.monthly_income ? profile.monthly_income.toString() : null} 
               />
               <ProfileItem 
                 icon={Home} 
                 label="Maximum Budget" 
-                value={profile.max_budget ? parseFloat(profile.max_budget) : null} 
+                value={profile.max_budget ? profile.max_budget.toString() : null} 
               />
             </div>
 
@@ -186,10 +182,7 @@ export default function ProfilePage() {
   );
 }
 
-function formatCurrency(value: number | null | undefined): string {
-  if (!value) return '$0';
-  return `$${value.toLocaleString()}`;
-}
+
 
 function formatDate(dateString: string): string {
   const date = new Date(dateString);
@@ -201,7 +194,7 @@ function formatDate(dateString: string): string {
 }
 
 function ProfileItem({ icon: Icon, label, value }: { 
-  icon: any, 
+  icon: LucideIcon, 
   label: string, 
   value: string | number | undefined | null 
 }) {

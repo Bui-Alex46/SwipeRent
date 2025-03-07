@@ -1,7 +1,7 @@
 "use client"
 
 import { useState } from 'react';
-import { Heart, Trash2, MapPin, Bed, Bath, Square, DollarSign, ChevronLeft, ChevronRight } from 'lucide-react';
+import {Trash2, MapPin, Bed, Bath, Square, DollarSign} from 'lucide-react';
 import type { Apartment } from '../types/apartment';
 import Image from 'next/image';
 import { ApartmentModal } from './ApartmentModal';
@@ -20,13 +20,14 @@ export function SavedApartmentCard({ apartment, onRemove }: SavedApartmentCardPr
   const [currentImageIndex, setCurrentImageIndex] = useState(0);
   const photos = apartment.photos || [apartment.primary_photo || { href: '' }];
 
+  // Add these functions to handle image navigation
   const nextImage = (e: React.MouseEvent) => {
-    e.stopPropagation();
+    e.stopPropagation(); // Prevent modal from opening
     setCurrentImageIndex((prev) => (prev + 1) % photos.length);
   };
 
   const previousImage = (e: React.MouseEvent) => {
-    e.stopPropagation();
+    e.stopPropagation(); // Prevent modal from opening
     setCurrentImageIndex((prev) => (prev - 1 + photos.length) % photos.length);
   };
 
@@ -50,10 +51,28 @@ export function SavedApartmentCard({ apartment, onRemove }: SavedApartmentCardPr
 
           {/* Image Navigation */}
           {photos.length > 1 && (
-            <div className="absolute bottom-3 left-1/2 -translate-x-1/2 px-3 py-1 rounded-full 
+            <>
+              {/* Navigation buttons */}
+              <button
+                onClick={previousImage}
+                className="absolute left-2 top-1/2 -translate-y-1/2 p-2 rounded-full 
+                         bg-black/50 text-white hover:bg-black/70 transition-colors"
+              >
+                ←
+              </button>
+              <button
+                onClick={nextImage}
+                className="absolute right-2 top-1/2 -translate-y-1/2 p-2 rounded-full 
+                         bg-black/50 text-white hover:bg-black/70 transition-colors"
+              >
+                →
+              </button>
+              {/* Image counter */}
+              <div className="absolute bottom-3 left-1/2 -translate-x-1/2 px-3 py-1 rounded-full 
                           bg-black/50 text-white text-sm">
-              {currentImageIndex + 1} / {photos.length}
-            </div>
+                {currentImageIndex + 1} / {photos.length}
+              </div>
+            </>
           )}
 
           {/* Remove Button */}

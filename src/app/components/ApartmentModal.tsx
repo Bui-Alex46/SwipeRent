@@ -1,9 +1,9 @@
 "use client"
 
-import { X, ChevronLeft, ChevronRight, CheckCircle, Loader2 } from "lucide-react"
+import { X, ChevronLeft, ChevronRight} from "lucide-react"
 import Image from "next/image"
 import { motion, AnimatePresence } from "framer-motion"
-import type { Apartment } from "../types/apartment"
+
 import { createPortal } from "react-dom"
 import { useState, useEffect } from "react"
 import { ImageViewer } from "./ImageViewer"
@@ -62,7 +62,6 @@ export function ApartmentModal({ apartment, isOpen, onClose }: ApartmentModalPro
   const [isImageViewerOpen, setIsImageViewerOpen] = useState(false)
   const [isApplying, setIsApplying] = useState(false)
   const [applicationError, setApplicationError] = useState<string | null>(null)
-  const [applicationSuccess, setApplicationSuccess] = useState(false)
   const [hasApplied, setHasApplied] = useState(false)
   const [applicationStatus, setApplicationStatus] = useState<string | null>(null)
   const [showInfoModal, setShowInfoModal] = useState(false)
@@ -163,7 +162,6 @@ export function ApartmentModal({ apartment, isOpen, onClose }: ApartmentModalPro
         throw new Error(data.error || 'Failed to submit application')
       }
 
-      setApplicationSuccess(true)
       setHasApplied(true)
       setApplicationStatus('pending')
     } catch (err) {

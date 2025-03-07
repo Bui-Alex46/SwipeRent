@@ -40,8 +40,9 @@ export default function SwipePage() {
       setCurrentIndex(0);
       setHistory([]);
     } catch (err) {
-      setError('Failed to load apartments');
-      console.error(err);
+      const errorMessage = err instanceof Error ? err.message : 'Failed to load apartments';
+      setError(errorMessage);
+      console.error('Load apartments error:', err);
     } finally {
       setIsLoading(false);
     }

@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useCallback } from 'react';
 import { useRouter } from 'next/navigation';
 import Link from 'next/link';
 import { motion } from 'framer-motion';
@@ -35,11 +35,7 @@ export default function DashboardPage() {
   const [uploadingType, setUploadingType] = useState<string | null>(null);
   const router = useRouter();
 
-  useEffect(() => {
-    fetchDocuments();
-  }, []);
-
-  const fetchDocuments = async () => {
+  const fetchDocuments = useCallback(async () => {
     try {
       const token = localStorage.getItem('token');
       if (!token) {
@@ -65,7 +61,11 @@ export default function DashboardPage() {
     } finally {
       setLoading(false);
     }
-  };
+  }, [router]);
+
+  useEffect(() => {
+    fetchDocuments();
+  }, [fetchDocuments]);
 
   const handleFileUpload = async (documentType: string, file: File) => {
     try {
@@ -204,7 +204,7 @@ export default function DashboardPage() {
                 
                 {documentStatus.isVerified ? (
                   <p className="text-cyan-200">
-                    Your documents have been verified. You're ready to start browsing apartments!
+                    You&apos;re ready to start browsing apartments!
                   </p>
                 ) : (
                   <div>

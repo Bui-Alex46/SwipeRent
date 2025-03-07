@@ -39,12 +39,25 @@ export async function fetchApartments(filters: FilterParams): Promise<Apartment[
     const data = await response.json();
 
     if (!response.ok || !data.status) {
+      console.error('API Response:', data);
+      if (data.errors && data.errors.length > 0) {
+        const errorDetails = data.errors[0];
+        throw new Error(`API Error: ${errorDetails.message} (Code: ${errorDetails.code})`);
+      }
       throw new Error(data.message || data.error || 'Failed to fetch apartments');
     }
 
-    return data.data?.results || [];
+    if (!data.data?.results) {
+      console.warn('No results found in response:', data);
+      return [];
+    }
+
+    return data.data.results;
   } catch (error) {
     console.error('Fetch error:', error);
+    if (error instanceof Error) {
+      throw new Error(`Failed to fetch apartments: ${error.message}`);
+    }
     throw error;
   }
 } 

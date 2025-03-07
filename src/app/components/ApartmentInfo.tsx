@@ -1,5 +1,4 @@
-import { Apartment } from "../types/apartment"
-import { Bed, Bath, Maximize, PawPrint, DollarSign, Check, X } from "lucide-react"
+
 
 interface ApartmentInfoProps {
   apartment: {

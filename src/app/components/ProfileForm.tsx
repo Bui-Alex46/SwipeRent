@@ -23,9 +23,7 @@ export function ProfileForm({ initialData, onSubmit, onCancel }: ProfileFormProp
     max_budget: initialData?.max_budget || 0
   });
 
-  const formatCurrency = (value: number) => {
-    return value === 0 ? '' : value.toString();
-  };
+
 
   const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) => {
     const { name, value } = e.target;
@@ -177,7 +175,7 @@ export function ProfileForm({ initialData, onSubmit, onCancel }: ProfileFormProp
               inputMode="numeric"
               id="monthly_income"
               name="monthly_income"
-              value={formatCurrency(formData.monthly_income)}
+              value={formData.monthly_income.toString()}
               onChange={handleChange}
               placeholder="0"
               className="w-full pl-8 px-4 py-2 rounded-lg bg-white/5 border border-white/10 text-white placeholder-gray-400
@@ -216,7 +214,7 @@ export function ProfileForm({ initialData, onSubmit, onCancel }: ProfileFormProp
               inputMode="numeric"
               id="max_budget"
               name="max_budget"
-              value={formatCurrency(formData.max_budget)}
+              value={formData.max_budget.toString()}
               onChange={handleChange}
               placeholder="0"
               className="w-full pl-8 px-4 py-2 rounded-lg bg-white/5 border border-white/10 text-white placeholder-gray-400

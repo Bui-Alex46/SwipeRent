@@ -3,10 +3,8 @@
 import { useState } from "react"
 import { motion, AnimatePresence } from "framer-motion"
 import Image from "next/image"
-import { Heart, X, MapPin, DollarSign, Bed, Bath, Square } from "lucide-react"
+import {MapPin, DollarSign, Bed, Bath, Square } from "lucide-react"
 import type { Apartment } from "../types/apartment"
-import { SkeletonLoader } from "./SkeletonLoader"
-import { useSwipeable } from "react-swipeable"
 import { ApartmentModal } from "./ApartmentModal"
 
 interface SwipeCardProps {
@@ -26,15 +24,18 @@ export function SwipeCard({ apartment, prevApartment, nextApartment, onSwipe }: 
   const [isModalOpen, setIsModalOpen] = useState(false)
   const [direction, setDirection] = useState<'left' | 'right' | null>(null)
 
-  const handleDragStart = (event: any, info: any) => {
+  console.log('Apartment data:', apartment); // Debug log
+  console.log('Image URL:', apartment.primary_photo?.href); // Debug log
+
+  const handleDragStart = () => {
     setDirection(null)
   }
 
-  const handleDrag = (event: any, info: any) => {
+  const handleDrag = (event: DragEvent, info: { offset: { x: number } }) => {
     setDragX(info.offset.x)
   }
 
-  const handleDragEnd = (event: any, info: any) => {
+  const handleDragEnd = (event: DragEvent, info: { offset: { x: number } }) => {
     const dragDistance = info.offset.x
     const threshold = 100
 

@@ -28,6 +28,7 @@ export interface Apartment {
     sqft?: number;
   };
   primary_photo?: { href: string };
+  imageUrl?: string;
   photos?: Array<{ href: string }>;
   details?: Array<{
     category: string;

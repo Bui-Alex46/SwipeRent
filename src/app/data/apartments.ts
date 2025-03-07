@@ -1,7 +1,51 @@
 import type { Apartment } from "@/app/types/apartment"
 import cacheData from "./cacheData.json"
 
-export const apartments: Apartment[] = cacheData.data.results.map((result: any) => ({
+// Define the type for the API response data
+interface ApiApartmentResult {
+  property_id?: string;
+  listing_id?: string;
+  advertisers?: Array<{
+    office?: {
+      name?: string;
+    };
+  }>;
+  list_price_min?: number;
+  list_price_max?: number;
+  location?: {
+    address?: {
+      line?: string;
+      city?: string;
+      state_code?: string;
+    };
+  };
+  description?: {
+    beds_min?: number;
+    beds_max?: number;
+    beds?: number;
+    baths_min?: number;
+    baths_max?: number;
+    baths?: number;
+    baths_full_calc?: number;
+    sqft_min?: number;
+    sqft_max?: number;
+    sqft?: number;
+  };
+  beds?: number;
+  baths?: number;
+  size?: number;
+  primary_photo?: {
+    href: string;
+  };
+  photos?: Array<{ href: string }>;
+  details?: Array<{ 
+    category: string;
+    text: string[]; 
+  }>;
+  pet_policy?: unknown;
+}
+
+export const apartments: Apartment[] = (cacheData.data.results as unknown as ApiApartmentResult[]).map((result) => ({
   id: result.property_id || result.listing_id,
   property_id: result.property_id,
   title: result.advertisers?.[1]?.office?.name || "Apartment",
@@ -30,7 +74,10 @@ export const apartments: Apartment[] = cacheData.data.results.map((result: any) 
   size: result.size,
   primary_photo: result.primary_photo,
   photos: result.photos,
-  details: result.details,
+  details: result.details?.map(detail => ({
+    category: detail.category || 'General',
+    text: detail.text
+  })),
   pet_policy: result.pet_policy,
   advertisers: result.advertisers
 }));

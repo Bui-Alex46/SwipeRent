@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useCallback } from 'react';
 import { useRouter } from 'next/navigation';
 import { SavedApartmentCard } from '../components/SavedApartmentCard';
 import { motion } from 'framer-motion';
@@ -13,11 +13,7 @@ export default function SavedListingsPage() {
   const [error, setError] = useState<string | null>(null);
   const router = useRouter();
 
-  useEffect(() => {
-    fetchSavedApartments();
-  }, []);
-
-  const fetchSavedApartments = async () => {
+  const fetchSavedApartments = useCallback(async () => {
     try {
       const token = localStorage.getItem('token');
       if (!token) {
@@ -36,11 +32,11 @@ export default function SavedListingsPage() {
       }
 
       const data = await response.json();
+      console.log('Raw apartment data:', data);
       const transformedData = data.map((apartment: Apartment) => ({
         ...apartment,
-        photos: apartment.photos || [
-          { href: apartment.imageUrl },
-          ...(apartment.additionalImages || []).map((url: string) => ({ href: url }))
+        photos: [
+          { href: apartment.imageUrl }
         ]
       }));
 
@@ -51,7 +47,11 @@ export default function SavedListingsPage() {
     } finally {
       setLoading(false);
     }
-  };
+  }, [router]);
+
+  useEffect(() => {
+    fetchSavedApartments();
+  }, [fetchSavedApartments]);
 
   if (loading) {
     return (
@@ -124,7 +124,7 @@ export default function SavedListingsPage() {
                 No Saved Listings Yet
               </h3>
               <p className="text-cyan-200 mb-6">
-                Start saving apartments you like and they'll appear here
+                Start saving apartments you like and they&apos;ll appear here
               </p>
               <button
                 onClick={() => router.push('/')}

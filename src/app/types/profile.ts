@@ -7,9 +7,9 @@ export interface UserProfile {
   current_address: string;
   bio: string;
   occupation: string;
-  monthly_income: number;
+  monthly_income: number | string;
   preferred_locations: string[];
-  max_budget: number;
+  max_budget: number | string;
   created_at: string;
   updated_at: string;
 }
@@ -21,7 +21,7 @@ export interface ProfileFormData {
   current_address: string;
   bio: string;
   occupation: string;
-  monthly_income: number;
+  monthly_income: number | string;
   preferred_locations: string[];
-  max_budget: number;
+  max_budget: number | string;
 } 
