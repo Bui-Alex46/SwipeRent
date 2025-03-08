@@ -4,7 +4,7 @@ A modern apartment hunting application that brings the convenience of swipe-base
 
 ## 🚀 Live Demo
 - Frontend: [SwipeRent on Vercel](https://swipe-rent.vercel.app)
-- Backend: [SwipeRent API on Render](https://swiperent.onrender.com)
+- Backend:  SwipeRent API on Render
 - Database: Hosted on Supabase
 
 ## 🛠️ Technologies Used
