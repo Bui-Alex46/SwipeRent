@@ -60,7 +60,7 @@ export default function SwipePage() {
         return
       }
 
-      const response = await fetch('http://localhost:3001/api/favorites', {
+      const response = await fetch('https://swiperent.onrender.com/api/favorites', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',

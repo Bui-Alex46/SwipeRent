@@ -25,7 +25,7 @@ export default function ProfilePage() {
         return;
       }
 
-      const response = await fetch('http://localhost:3001/api/profile', {
+      const response = await fetch('https://swiperent.onrender.com/api/profile', {
         headers: {
           'Authorization': `Bearer ${token}`
         }
@@ -71,7 +71,7 @@ export default function ProfilePage() {
             onSubmit={async (data) => {
               try {
                 const token = localStorage.getItem('token');
-                const response = await fetch('http://localhost:3001/api/profile', {
+                const response = await fetch('https://swiperent.onrender.com/api/profile', {
                   method: 'POST',
                   headers: {
                     'Content-Type': 'application/json',

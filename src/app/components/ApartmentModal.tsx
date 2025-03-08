@@ -107,7 +107,7 @@ export function ApartmentModal({ apartment, isOpen, onClose }: ApartmentModalPro
       }
 
       // First check profile
-      const profileResponse = await fetch('http://localhost:3001/api/profile', {
+      const profileResponse = await fetch('https://swiperent.onrender.com/api/profile', {
         headers: {
           'Authorization': `Bearer ${token}`
         }
@@ -125,7 +125,7 @@ export function ApartmentModal({ apartment, isOpen, onClose }: ApartmentModalPro
       }
 
       // Then check documents
-      const documentsResponse = await fetch('http://localhost:3001/api/documents', {
+      const documentsResponse = await fetch('https://swiperent.onrender.com/api/documents', {
         headers: {
           'Authorization': `Bearer ${token}`
         }
@@ -144,7 +144,7 @@ export function ApartmentModal({ apartment, isOpen, onClose }: ApartmentModalPro
       }
 
       // If all checks pass, proceed with application
-      const response = await fetch('http://localhost:3001/api/applications', {
+      const response = await fetch('https://swiperent.onrender.com/api/applications', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -181,7 +181,7 @@ export function ApartmentModal({ apartment, isOpen, onClose }: ApartmentModalPro
         const token = localStorage.getItem('token')
         if (!token) return
 
-        const response = await fetch(`http://localhost:3001/api/applications/check/${apartment.id || apartment.property_id}`, {
+        const response = await fetch(`https://swiperent.onrender.com/api/applications/check/${apartment.id || apartment.property_id}`, {
           headers: {
             'Authorization': `Bearer ${token}`
           }

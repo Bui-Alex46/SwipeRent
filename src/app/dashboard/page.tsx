@@ -43,7 +43,7 @@ export default function DashboardPage() {
         return;
       }
 
-      const response = await fetch('http://localhost:3001/api/documents', {
+      const response = await fetch('https://swiperent.onrender.com/api/documents', {
         headers: {
           'Authorization': `Bearer ${token}`
         }
@@ -83,7 +83,7 @@ export default function DashboardPage() {
       formData.append('documentType', documentType);
       formData.append('originalName', file.name);
 
-      const response = await fetch('http://localhost:3001/api/documents/upload', {
+      const response = await fetch('https://swiperent.onrender.com/api/documents/upload', {
         method: 'POST',
         headers: {
           'Authorization': `Bearer ${token}`
@@ -122,7 +122,7 @@ export default function DashboardPage() {
         return;
       }
 
-      const response = await fetch(`http://localhost:3001/api/documents/${documentId}`, {
+      const response = await fetch(`https://swiperent.onrender.com/api/documents/${documentId}`, {
         method: 'DELETE',
         headers: {
           'Authorization': `Bearer ${token}`

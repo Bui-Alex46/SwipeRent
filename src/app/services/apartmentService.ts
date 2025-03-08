@@ -23,7 +23,7 @@ export async function fetchApartments(filters: FilterParams): Promise<Apartment[
     if (filters.propertyType?.length) queryString.append('propertyType', filters.propertyType.join(','));
     if (filters.pets?.length) queryString.append('pets', filters.pets.join(','));
 
-    const url = `http://localhost:3001/api/listings?${queryString}`;
+    const url = `https://swiperent.onrender.com/api/listings?${queryString}`;
     console.log('Fetching from URL:', url);
 
     const response = await fetch(url, {

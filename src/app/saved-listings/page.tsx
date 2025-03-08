@@ -21,7 +21,7 @@ export default function SavedListingsPage() {
         return;
       }
 
-      const response = await fetch('http://localhost:3001/api/favorites', {
+      const response = await fetch('https://swiperent.onrender.com/api/favorites', {
         headers: {
           'Authorization': `Bearer ${token}`
         }

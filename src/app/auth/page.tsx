@@ -13,7 +13,7 @@ export default function AuthPage() {
       setError(null);
       const endpoint = data.username ? '/api/signup' : '/api/signin';
       
-      const response = await fetch(`http://localhost:3001${endpoint}`, {
+      const response = await fetch(`https://swiperent.onrender.com${endpoint}`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
