@@ -177,11 +177,11 @@ app.get('/api/protected-route', authenticateToken, (req: any, res: any) => {
   res.json({ message: 'Protected data' });
 });
 
-app.get('/api/health', (req, res) => {
+app.get('/api/health', (req: any, res: any) => {
   res.json({ status: 'ok' });
 });
 
-app.get('/', (req, res) => {
+app.get('/', (req: any, res: any) => {
   res.json({ message: 'Welcome to the SwipeRent API' });
 });
 
@@ -255,7 +255,7 @@ function buildQueryString(params: FilterParams): string {
 }
 
 // Modified API endpoint
-app.get('/api/listings', async (req, res) => {
+app.get('/api/listings', async (req: any, res: any) => {
   try {
     console.log('Received request with query:', req.query);
     
