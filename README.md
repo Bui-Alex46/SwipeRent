@@ -14,8 +14,8 @@ A modern apartment hunting application that brings the convenience of swipe-base
 - **TypeScript** - Static type checking
 - **Tailwind CSS** - Utility-first CSS framework
 - **Shadcn/ui** - Reusable component library
-- **Zustand** - State management
-- **React Query** - Data fetching and caching
+- **React Hooks** - State management and side effects
+- **Framer Motion** - Animations and gestures
 
 ### Backend
 - **Node.js** - Runtime environment
